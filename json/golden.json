@@ -1,0 +1,2318 @@
+{
+  "path": "oblivion/golden saint/",
+  "name": "golden saint",
+  "children": [
+    {
+      "path": "oblivion\\golden saint\\f",
+      "name": "f",
+      "children": [
+        {
+          "path": "oblivion\\golden saint\\f\\se00_greeting_00018dc2_1.mp3",
+          "name": "se00_greeting_00018dc2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se00_greeting_00082571_1.mp3",
+          "name": "se00_greeting_00082571_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se00_greeting_00082573_1.mp3",
+          "name": "se00_greeting_00082573_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se00_se06gswardengreet2_00018db8_1.mp3",
+          "name": "se00_se06gswardengreet2_00018db8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se00_se06gswardengreet2_00018db8_2.mp3",
+          "name": "se00_se06gswardengreet2_00018db8_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se00_se06gswardengreet2_00018db9_1.mp3",
+          "name": "se00_se06gswardengreet2_00018db9_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se00_se06gswardengreet2_00018dba_1.mp3",
+          "name": "se00_se06gswardengreet2_00018dba_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se00_se06gswardengreet2_00018dbb_1.mp3",
+          "name": "se00_se06gswardengreet2_00018dbb_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se00_se06gswardengreet2_00018dc6_1.mp3",
+          "name": "se00_se06gswardengreet2_00018dc6_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se00_se06gswardengreet3_00018dc9_1.mp3",
+          "name": "se00_se06gswardengreet3_00018dc9_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se04_sechaliceofreversal_00082470_1.mp3",
+          "name": "se04_sechaliceofreversal_00082470_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_goodbye_00043f1d_1.mp3",
+          "name": "se06_goodbye_00043f1d_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_greeting_00012cc5_1.mp3",
+          "name": "se06_greeting_00012cc5_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_greeting_00012cc6_1.mp3",
+          "name": "se06_greeting_00012cc6_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_greeting_00012cc7_1.mp3",
+          "name": "se06_greeting_00012cc7_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_greeting_000131a8_1.mp3",
+          "name": "se06_greeting_000131a8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_greeting_000131a8_2.mp3",
+          "name": "se06_greeting_000131a8_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_greeting_00018f86_1.mp3",
+          "name": "se06_greeting_00018f86_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_greeting_00018f87_1.mp3",
+          "name": "se06_greeting_00018f87_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_greeting_000192e5_1.mp3",
+          "name": "se06_greeting_000192e5_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_greeting_00043cd1_1.mp3",
+          "name": "se06_greeting_00043cd1_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_greeting_00043cd1_2.mp3",
+          "name": "se06_greeting_00043cd1_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_greeting_00043cd1_3.mp3",
+          "name": "se06_greeting_00043cd1_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_greeting_00043cd2_1.mp3",
+          "name": "se06_greeting_00043cd2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_greeting_00054b77_1.mp3",
+          "name": "se06_greeting_00054b77_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_greeting_00054fa0_1.mp3",
+          "name": "se06_greeting_00054fa0_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_hello_0003e65f_1.mp3",
+          "name": "se06_hello_0003e65f_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_hello_00080d88_1.mp3",
+          "name": "se06_hello_00080d88_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_hello_00080d89_1.mp3",
+          "name": "se06_hello_00080d89_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_hello_00080d8b_1.mp3",
+          "name": "se06_hello_00080d8b_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_hello_00080d8c_1.mp3",
+          "name": "se06_hello_00080d8c_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_hello_00080d8d_1.mp3",
+          "name": "se06_hello_00080d8d_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_hello_000826d4_1.mp3",
+          "name": "se06_hello_000826d4_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06flameagnon_00012cc8_3.mp3",
+          "name": "se06_se06flameagnon_00012cc8_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06flameagnon_00012cc8_4.mp3",
+          "name": "se06_se06flameagnon_00012cc8_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06flameagnon_000131ac_1.mp3",
+          "name": "se06_se06flameagnon_000131ac_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06flameagnon_000131ac_2.mp3",
+          "name": "se06_se06flameagnon_000131ac_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06flameagnon_000131ac_3.mp3",
+          "name": "se06_se06flameagnon_000131ac_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06flameagnon_0003e6af_3.mp3",
+          "name": "se06_se06flameagnon_0003e6af_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06flameagnon_0003e6af_4.mp3",
+          "name": "se06_se06flameagnon_0003e6af_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06greetb1_0003e6bb_1.mp3",
+          "name": "se06_se06greetb1_0003e6bb_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06greetb1_0003e6bb_2.mp3",
+          "name": "se06_se06greetb1_0003e6bb_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06gswardengreet1_00018dc3_1.mp3",
+          "name": "se06_se06gswardengreet1_00018dc3_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka1_00012cca_1.mp3",
+          "name": "se06_se06helpattacka1_00012cca_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka1_00012cca_2.mp3",
+          "name": "se06_se06helpattacka1_00012cca_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka1_00012cca_3.mp3",
+          "name": "se06_se06helpattacka1_00012cca_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka2_00012ccc_1.mp3",
+          "name": "se06_se06helpattacka2_00012ccc_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka3b1_00012cce_1.mp3",
+          "name": "se06_se06helpattacka3b1_00012cce_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka3b2_000192e9_1.mp3",
+          "name": "se06_se06helpattacka3b2_000192e9_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka3b3_00012cd0_1.mp3",
+          "name": "se06_se06helpattacka3b3_00012cd0_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka3b3_000192e8_1.mp3",
+          "name": "se06_se06helpattacka3b3_000192e8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka3c1_000192ea_1.mp3",
+          "name": "se06_se06helpattacka3c1_000192ea_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka3c1_000192ea_2.mp3",
+          "name": "se06_se06helpattacka3c1_000192ea_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka3c2_000192ed_1.mp3",
+          "name": "se06_se06helpattacka3c2_000192ed_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka3c2_000192ed_2.mp3",
+          "name": "se06_se06helpattacka3c2_000192ed_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka3c3_000192eb_3.mp3",
+          "name": "se06_se06helpattacka3c3_000192eb_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka3c3_000192eb_4.mp3",
+          "name": "se06_se06helpattacka3c3_000192eb_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka3c3_000192ec_3.mp3",
+          "name": "se06_se06helpattacka3c3_000192ec_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka3c3_000192ec_4.mp3",
+          "name": "se06_se06helpattacka3c3_000192ec_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka3_00012ccd_1.mp3",
+          "name": "se06_se06helpattacka3_00012ccd_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka3_00012ccd_2.mp3",
+          "name": "se06_se06helpattacka3_00012ccd_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka3_00018f9b_1.mp3",
+          "name": "se06_se06helpattacka3_00018f9b_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka3_00018f9b_2.mp3",
+          "name": "se06_se06helpattacka3_00018f9b_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka4_00012cd1_1.mp3",
+          "name": "se06_se06helpattacka4_00012cd1_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka4_00012cd1_2.mp3",
+          "name": "se06_se06helpattacka4_00012cd1_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka5_00012cd2_1.mp3",
+          "name": "se06_se06helpattacka5_00012cd2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka5_00012cd2_2.mp3",
+          "name": "se06_se06helpattacka5_00012cd2_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattacka5_00012cd2_3.mp3",
+          "name": "se06_se06helpattacka5_00012cd2_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattack_00012cc9_1.mp3",
+          "name": "se06_se06helpattack_00012cc9_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattack_00012cc9_2.mp3",
+          "name": "se06_se06helpattack_00012cc9_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattack_00012cc9_3.mp3",
+          "name": "se06_se06helpattack_00012cc9_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06helpattack_00012ccb_3.mp3",
+          "name": "se06_se06helpattack_00012ccb_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06kanehfinala_000400dd_2.mp3",
+          "name": "se06_se06kanehfinala_000400dd_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06kanehfinala_000400dd_3.mp3",
+          "name": "se06_se06kanehfinala_000400dd_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06kanehfinalb_000400df_2.mp3",
+          "name": "se06_se06kanehfinalb_000400df_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06kanehfinalb_000400df_3.mp3",
+          "name": "se06_se06kanehfinalb_000400df_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06kanehfinalc_000400de_2.mp3",
+          "name": "se06_se06kanehfinalc_000400de_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06kanehfinalc_000400de_3.mp3",
+          "name": "se06_se06kanehfinalc_000400de_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06kanehgreeta_000131ab_1.mp3",
+          "name": "se06_se06kanehgreeta_000131ab_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06kanehgreeta_000131ab_2.mp3",
+          "name": "se06_se06kanehgreeta_000131ab_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06kanehmirel_00012103_1.mp3",
+          "name": "se06_se06kanehmirel_00012103_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06kanehmirel_00012104_1.mp3",
+          "name": "se06_se06kanehmirel_00012104_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06kanehtopic_00018dc4_1.mp3",
+          "name": "se06_se06kanehtopic_00018dc4_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06shoutbetrayal_00054fb2_1.mp3",
+          "name": "se06_se06shoutbetrayal_00054fb2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06shoutdefendaltar_00055367_1.mp3",
+          "name": "se06_se06shoutdefendaltar_00055367_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06shoutstartattack_00054fa1_1.mp3",
+          "name": "se06_se06shoutstartattack_00054fa1_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06shoutstartattack_00054fa2_1.mp3",
+          "name": "se06_se06shoutstartattack_00054fa2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06shoutstartattack_00054fa3_1.mp3",
+          "name": "se06_se06shoutstartattack_00054fa3_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06shoutstartattack_00054fa5_1.mp3",
+          "name": "se06_se06shoutstartattack_00054fa5_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06shoutstartcombat_00054fab_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054fab_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06shoutstartcombat_00054fac_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054fac_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06shoutstartcombat_00054fad_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054fad_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06shoutstartcombat_00054fae_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054fae_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06shoutstartcombat_00054faf_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054faf_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_se06shoutstartcombat_00054fb0_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054fb0_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_sealtarofdespairtopic_0007ff5f_3.mp3",
+          "name": "se06_sealtarofdespairtopic_0007ff5f_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_sealtarofdespairtopic_0007ff5f_4.mp3",
+          "name": "se06_sealtarofdespairtopic_0007ff5f_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_sealtarofrapturetopic_0007ff61_3.mp3",
+          "name": "se06_sealtarofrapturetopic_0007ff61_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_sealtarofrapturetopic_0007ff62_3.mp3",
+          "name": "se06_sealtarofrapturetopic_0007ff62_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_seaureals_00012cc1_1.mp3",
+          "name": "se06_seaureals_00012cc1_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_sebrellachtopic_00018dc5_1.mp3",
+          "name": "se06_sebrellachtopic_00018dc5_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se06_semazken_00012cc3_1.mp3",
+          "name": "se06_semazken_00012cc3_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_greeting_0001796a_1.mp3",
+          "name": "se08_greeting_0001796a_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_greeting_0001796f_1.mp3",
+          "name": "se08_greeting_0001796f_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_greeting_0001796f_2.mp3",
+          "name": "se08_greeting_0001796f_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_greeting_0001796f_3.mp3",
+          "name": "se08_greeting_0001796f_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_greeting_00017970_1.mp3",
+          "name": "se08_greeting_00017970_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_greeting_00017970_2.mp3",
+          "name": "se08_greeting_00017970_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_greeting_00017971_1.mp3",
+          "name": "se08_greeting_00017971_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_greeting_00017972_1.mp3",
+          "name": "se08_greeting_00017972_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_greeting_00017972_2.mp3",
+          "name": "se08_greeting_00017972_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_greeting_00017973_1.mp3",
+          "name": "se08_greeting_00017973_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_greeting_00017973_2.mp3",
+          "name": "se08_greeting_00017973_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_greeting_00017973_3.mp3",
+          "name": "se08_greeting_00017973_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_greeting_00017973_4.mp3",
+          "name": "se08_greeting_00017973_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_greeting_00017974_1.mp3",
+          "name": "se08_greeting_00017974_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_greeting_00018c77_1.mp3",
+          "name": "se08_greeting_00018c77_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08battlebeginno_000181c0_1.mp3",
+          "name": "se08_se08battlebeginno_000181c0_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08battlebeginyes_000181c1_1.mp3",
+          "name": "se08_se08battlebeginyes_000181c1_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commanderbattle01_000415de_1.mp3",
+          "name": "se08_se08commanderbattle01_000415de_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commanderbattle01_0005249c_1.mp3",
+          "name": "se08_se08commanderbattle01_0005249c_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commanderbattle02_000415df_1.mp3",
+          "name": "se08_se08commanderbattle02_000415df_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commanderbattle03_000415dd_1.mp3",
+          "name": "se08_se08commanderbattle03_000415dd_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commandergreeting1_00018c81_1.mp3",
+          "name": "se08_se08commandergreeting1_00018c81_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commandergreeting1_00018c81_2.mp3",
+          "name": "se08_se08commandergreeting1_00018c81_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commandergreeting1_00018c81_3.mp3",
+          "name": "se08_se08commandergreeting1_00018c81_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commandergreeting2_00018c80_1.mp3",
+          "name": "se08_se08commandergreeting2_00018c80_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commandergreeting2_00018c80_2.mp3",
+          "name": "se08_se08commandergreeting2_00018c80_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commandergreeting2_00018c80_4.mp3",
+          "name": "se08_se08commandergreeting2_00018c80_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commandergreeting3a_00018c7e_1.mp3",
+          "name": "se08_se08commandergreeting3a_00018c7e_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commandergreeting3a_00018c7e_3.mp3",
+          "name": "se08_se08commandergreeting3a_00018c7e_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commandergreeting3a_00018c7e_4.mp3",
+          "name": "se08_se08commandergreeting3a_00018c7e_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commandergreeting3_00018c7f_1.mp3",
+          "name": "se08_se08commandergreeting3_00018c7f_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commandergreeting3_00018c7f_2.mp3",
+          "name": "se08_se08commandergreeting3_00018c7f_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commandergreeting3_00018c7f_3.mp3",
+          "name": "se08_se08commandergreeting3_00018c7f_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commanderplan1a_00018c85_1.mp3",
+          "name": "se08_se08commanderplan1a_00018c85_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commanderplan1_00018c83_1.mp3",
+          "name": "se08_se08commanderplan1_00018c83_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commanderplan1_00018c83_2.mp3",
+          "name": "se08_se08commanderplan1_00018c83_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commanderplan1_00018c83_3.mp3",
+          "name": "se08_se08commanderplan1_00018c83_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commanderplan2_00018c87_1.mp3",
+          "name": "se08_se08commanderplan2_00018c87_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commanderplan2_00018c87_2.mp3",
+          "name": "se08_se08commanderplan2_00018c87_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commanderplan3_00018c89_1.mp3",
+          "name": "se08_se08commanderplan3_00018c89_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commanderplan3_00018c89_3.mp3",
+          "name": "se08_se08commanderplan3_00018c89_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08commanderplan3_00018c89_4.mp3",
+          "name": "se08_se08commanderplan3_00018c89_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08knightstopic_0001ec1b_1.mp3",
+          "name": "se08_se08knightstopic_0001ec1b_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08obelisktopic_00091351_1.mp3",
+          "name": "se08_se08obelisktopic_00091351_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08obelisktopic_00091351_2.mp3",
+          "name": "se08_se08obelisktopic_00091351_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08orders_0001aeae_1.mp3",
+          "name": "se08_se08orders_0001aeae_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08orders_0001aeae_2.mp3",
+          "name": "se08_se08orders_0001aeae_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08orders_0001aeae_3.mp3",
+          "name": "se08_se08orders_0001aeae_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08orders_0001aeae_4.mp3",
+          "name": "se08_se08orders_0001aeae_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08passwalltopic_00018c7b_1.mp3",
+          "name": "se08_se08passwalltopic_00018c7b_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08passwalltopic_00018c7b_2.mp3",
+          "name": "se08_se08passwalltopic_00018c7b_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08placeguardsend_0001ec28_1.mp3",
+          "name": "se08_se08placeguardsend_0001ec28_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08placeguardshelp_0001da85_1.mp3",
+          "name": "se08_se08placeguardshelp_0001da85_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08placeguardshelp_0001da85_2.mp3",
+          "name": "se08_se08placeguardshelp_0001da85_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08placeguardshelp_0001da85_3.mp3",
+          "name": "se08_se08placeguardshelp_0001da85_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08placeguardshelp_0001da85_4.mp3",
+          "name": "se08_se08placeguardshelp_0001da85_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08placeguardsno_000181c2_1.mp3",
+          "name": "se08_se08placeguardsno_000181c2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08placeguardsno_000181c2_2.mp3",
+          "name": "se08_se08placeguardsno_000181c2_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08placeguardsno_000181c2_3.mp3",
+          "name": "se08_se08placeguardsno_000181c2_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08placeguardsno_000181c2_4.mp3",
+          "name": "se08_se08placeguardsno_000181c2_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08placeguardsyes_000181c3_1.mp3",
+          "name": "se08_se08placeguardsyes_000181c3_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08placeguardsyes_000181c3_2.mp3",
+          "name": "se08_se08placeguardsyes_000181c3_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08spiretopic_0001da35_1.mp3",
+          "name": "se08_se08spiretopic_0001da35_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08spiretopic_0001da35_2.mp3",
+          "name": "se08_se08spiretopic_0001da35_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08spiretopic_0001da35_4.mp3",
+          "name": "se08_se08spiretopic_0001da35_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08spiretopic_000415d8_1.mp3",
+          "name": "se08_se08spiretopic_000415d8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08startbattleno_00082654_1.mp3",
+          "name": "se08_se08startbattleno_00082654_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08startbattleyes_00082652_1.mp3",
+          "name": "se08_se08startbattleyes_00082652_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se08_se08thefringetopic_00080805_1.mp3",
+          "name": "se08_se08thefringetopic_00080805_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_attack_0008f524_1.mp3",
+          "name": "se10_attack_0008f524_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_attack_0008f525_1.mp3",
+          "name": "se10_attack_0008f525_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_attack_0008f527_1.mp3",
+          "name": "se10_attack_0008f527_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_goodbye_0001680e_1.mp3",
+          "name": "se10_goodbye_0001680e_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_goodbye_0008f041_1.mp3",
+          "name": "se10_goodbye_0008f041_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_goodbye_0008f043_1.mp3",
+          "name": "se10_goodbye_0008f043_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_goodbye_0008f047_1.mp3",
+          "name": "se10_goodbye_0008f047_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_0001680f_1.mp3",
+          "name": "se10_greeting_0001680f_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_00017cf9_1.mp3",
+          "name": "se10_greeting_00017cf9_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_00017cf9_2.mp3",
+          "name": "se10_greeting_00017cf9_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_00017cf9_3.mp3",
+          "name": "se10_greeting_00017cf9_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_00017cf9_4.mp3",
+          "name": "se10_greeting_00017cf9_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_00017cfa_1.mp3",
+          "name": "se10_greeting_00017cfa_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_00017cfa_2.mp3",
+          "name": "se10_greeting_00017cfa_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_00017cfb_1.mp3",
+          "name": "se10_greeting_00017cfb_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_00017cfc_1.mp3",
+          "name": "se10_greeting_00017cfc_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_00017d0a_1.mp3",
+          "name": "se10_greeting_00017d0a_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_00017d0a_2.mp3",
+          "name": "se10_greeting_00017d0a_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_00017d0a_3.mp3",
+          "name": "se10_greeting_00017d0a_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_0001cce7_1.mp3",
+          "name": "se10_greeting_0001cce7_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_0001ccf1_1.mp3",
+          "name": "se10_greeting_0001ccf1_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_0001e967_1.mp3",
+          "name": "se10_greeting_0001e967_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_0001e967_2.mp3",
+          "name": "se10_greeting_0001e967_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_0001f380_1.mp3",
+          "name": "se10_greeting_0001f380_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_00082471_1.mp3",
+          "name": "se10_greeting_00082471_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_0008f048_1.mp3",
+          "name": "se10_greeting_0008f048_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_greeting_0008f049_1.mp3",
+          "name": "se10_greeting_0008f049_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_hello_00081cb1_1.mp3",
+          "name": "se10_hello_00081cb1_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_hello_00081cb2_1.mp3",
+          "name": "se10_hello_00081cb2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10chimeinfo_0001e96f_1.mp3",
+          "name": "se10_se10chimeinfo_0001e96f_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10chimeinfo_0001e96f_2.mp3",
+          "name": "se10_se10chimeinfo_0001e96f_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10chimeinfo_0001e96f_3.mp3",
+          "name": "se10_se10chimeinfo_0001e96f_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10deathconv_0001accd_1.mp3",
+          "name": "se10_se10deathconv_0001accd_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10duchessofdementia_00017d0b_1.mp3",
+          "name": "se10_se10duchessofdementia_00017d0b_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10duchessofdementia_00017d0b_2.mp3",
+          "name": "se10_se10duchessofdementia_00017d0b_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10dukeofdementia_0001746c_1.mp3",
+          "name": "se10_se10dukeofdementia_0001746c_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10dukeofdementia_0001746c_2.mp3",
+          "name": "se10_se10dukeofdementia_0001746c_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10follow_000545b8_1.mp3",
+          "name": "se10_se10follow_000545b8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10issmitopic_00016813_1.mp3",
+          "name": "se10_se10issmitopic_00016813_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10letsgo_00017d12_1.mp3",
+          "name": "se10_se10letsgo_00017d12_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10letsgo_00017d12_2.mp3",
+          "name": "se10_se10letsgo_00017d12_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10letsgo_00017d12_3.mp3",
+          "name": "se10_se10letsgo_00017d12_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10letsgo_00017d14_1.mp3",
+          "name": "se10_se10letsgo_00017d14_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10letsgo_00017d14_2.mp3",
+          "name": "se10_se10letsgo_00017d14_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10letsgo_00017d14_3.mp3",
+          "name": "se10_se10letsgo_00017d14_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10messengergreeting_0008f4ea_1.mp3",
+          "name": "se10_se10messengergreeting_0008f4ea_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10nm_0001e96e_1.mp3",
+          "name": "se10_se10nm_0001e96e_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10notready_00081cae_1.mp3",
+          "name": "se10_se10notready_00081cae_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10opposition_00016b38_1.mp3",
+          "name": "se10_se10opposition_00016b38_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10opposition_00016b38_2.mp3",
+          "name": "se10_se10opposition_00016b38_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10staadatopic_00016b39_1.mp3",
+          "name": "se10_se10staadatopic_00016b39_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10staadatopic_00016b39_2.mp3",
+          "name": "se10_se10staadatopic_00016b39_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10staadawhere_00016b3a_1.mp3",
+          "name": "se10_se10staadawhere_00016b3a_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10staadawhere_00016b3a_2.mp3",
+          "name": "se10_se10staadawhere_00016b3a_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10staadawhere_00016b3a_3.mp3",
+          "name": "se10_se10staadawhere_00016b3a_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10timetogo_0001b6bc_1.mp3",
+          "name": "se10_se10timetogo_0001b6bc_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10trouble_00016812_1.mp3",
+          "name": "se10_se10trouble_00016812_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10wait_000545b7_1.mp3",
+          "name": "se10_se10wait_000545b7_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10wellspringinfo_0001e971_1.mp3",
+          "name": "se10_se10wellspringinfo_0001e971_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10wellspringinfo_0001e971_2.mp3",
+          "name": "se10_se10wellspringinfo_0001e971_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10wellspringinfo_0001e971_3.mp3",
+          "name": "se10_se10wellspringinfo_0001e971_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10wellspringofaureal_0008f179_1.mp3",
+          "name": "se10_se10wellspringofaureal_0008f179_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10whataboutthadon_0001b6b8_1.mp3",
+          "name": "se10_se10whataboutthadon_0001b6b8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10whataboutthadon_0001b6b8_2.mp3",
+          "name": "se10_se10whataboutthadon_0001b6b8_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10whathappened_00017d16_1.mp3",
+          "name": "se10_se10whathappened_00017d16_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10whathappened_00017d16_2.mp3",
+          "name": "se10_se10whathappened_00017d16_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10whathappened_00017d16_3.mp3",
+          "name": "se10_se10whathappened_00017d16_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10whatnow_00044303_1.mp3",
+          "name": "se10_se10whatnow_00044303_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10whatwellspring_00017d17_1.mp3",
+          "name": "se10_se10whatwellspring_00017d17_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10whatwellspring_00017d17_2.mp3",
+          "name": "se10_se10whatwellspring_00017d17_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10whatwellspring_00017d17_3.mp3",
+          "name": "se10_se10whatwellspring_00017d17_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10whoareyou_00016818_1.mp3",
+          "name": "se10_se10whoareyou_00016818_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_se10whoareyou_00016818_2.mp3",
+          "name": "se10_se10whoareyou_00016818_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_sebrellachinfo_0001e970_1.mp3",
+          "name": "se10_sebrellachinfo_0001e970_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_sebrellachinfo_0001e970_2.mp3",
+          "name": "se10_sebrellachinfo_0001e970_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_sebrellachinfo_0001e970_3.mp3",
+          "name": "se10_sebrellachinfo_0001e970_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_sebrellachtopic_0001681e_1.mp3",
+          "name": "se10_sebrellachtopic_0001681e_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_sebrellachtopic_0001681e_2.mp3",
+          "name": "se10_sebrellachtopic_0001681e_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_sebrellachtopic_0001e96d_1.mp3",
+          "name": "se10_sebrellachtopic_0001e96d_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_sebrellachtopic_0008f04c_1.mp3",
+          "name": "se10_sebrellachtopic_0008f04c_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_sebrellachtopic_0008f04c_2.mp3",
+          "name": "se10_sebrellachtopic_0008f04c_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_sethadontopic_0008f178_1.mp3",
+          "name": "se10_sethadontopic_0008f178_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se10_sethadontopic_0008f178_2.mp3",
+          "name": "se10_sethadontopic_0008f178_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se12_se12traitortaunts_0001a379_1.mp3",
+          "name": "se12_se12traitortaunts_0001a379_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_attack_0004db61_1.mp3",
+          "name": "se13_attack_0004db61_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_attack_0004db6e_1.mp3",
+          "name": "se13_attack_0004db6e_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_attack_0004db71_1.mp3",
+          "name": "se13_attack_0004db71_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_attack_0004db76_1.mp3",
+          "name": "se13_attack_0004db76_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_attack_0004db77_1.mp3",
+          "name": "se13_attack_0004db77_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_greeting_0001a799_1.mp3",
+          "name": "se13_greeting_0001a799_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_greeting_0001a79b_1.mp3",
+          "name": "se13_greeting_0001a79b_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_greeting_0001acac_1.mp3",
+          "name": "se13_greeting_0001acac_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_greeting_0005e376_1.mp3",
+          "name": "se13_greeting_0005e376_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13allyshoutjyggylag_0004db99_1.mp3",
+          "name": "se13_se13allyshoutjyggylag_0004db99_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13allyshoutjyggylag_0004db9c_1.mp3",
+          "name": "se13_se13allyshoutjyggylag_0004db9c_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13allyshoutjyggylag_0004db9e_1.mp3",
+          "name": "se13_se13allyshoutjyggylag_0004db9e_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13allyshoutjyggylag_0004dba5_1.mp3",
+          "name": "se13_se13allyshoutjyggylag_0004dba5_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13allyshoutjyggylag_0004dba6_1.mp3",
+          "name": "se13_se13allyshoutjyggylag_0004dba6_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13allyshoutreinforcements_0004dbd4_1.mp3",
+          "name": "se13_se13allyshoutreinforcements_0004dbd4_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13allyshoutreinforcements_0004dbd5_1.mp3",
+          "name": "se13_se13allyshoutreinforcements_0004dbd5_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13captaingreeta2_0005e378_1.mp3",
+          "name": "se13_se13captaingreeta2_0005e378_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13captaingreeta2_0005e378_2.mp3",
+          "name": "se13_se13captaingreeta2_0005e378_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13captaingreeta2_0005e378_3.mp3",
+          "name": "se13_se13captaingreeta2_0005e378_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13captaingreeta3_0005e37c_1.mp3",
+          "name": "se13_se13captaingreeta3_0005e37c_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13captaingreeta3_0005e37c_2.mp3",
+          "name": "se13_se13captaingreeta3_0005e37c_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13captaingreeta3_0005e37c_3.mp3",
+          "name": "se13_se13captaingreeta3_0005e37c_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13captaingreetb1_0005e377_1.mp3",
+          "name": "se13_se13captaingreetb1_0005e377_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13captaingreetb2_0001a79f_1.mp3",
+          "name": "se13_se13captaingreetb2_0001a79f_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13messengerb1_0005e37a_1.mp3",
+          "name": "se13_se13messengerb1_0005e37a_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13messengerb2_0005e37b_1.mp3",
+          "name": "se13_se13messengerb2_0005e37b_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13messengerb2_0005e37b_2.mp3",
+          "name": "se13_se13messengerb2_0005e37b_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13messengerb2_0005e37b_3.mp3",
+          "name": "se13_se13messengerb2_0005e37b_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13obeliskashout_0001acad_1.mp3",
+          "name": "se13_se13obeliskashout_0001acad_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13obeliskbshout_0001acae_1.mp3",
+          "name": "se13_se13obeliskbshout_0001acae_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13obeliskcshout_0001acaf_1.mp3",
+          "name": "se13_se13obeliskcshout_0001acaf_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13officergreeta2_0001acb3_1.mp3",
+          "name": "se13_se13officergreeta2_0001acb3_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13officergreeta3_0001acb4_1.mp3",
+          "name": "se13_se13officergreeta3_0001acb4_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13officergreeta4_0001acb5_1.mp3",
+          "name": "se13_se13officergreeta4_0001acb5_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se13_se13officergreeta7_0004db98_1.mp3",
+          "name": "se13_se13officergreeta7_0004db98_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se14_greeting_00063571_1.mp3",
+          "name": "se14_greeting_00063571_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se14_greeting_000637c2_1.mp3",
+          "name": "se14_greeting_000637c2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se14_se14escortfollow_000637e1_1.mp3",
+          "name": "se14_se14escortfollow_000637e1_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se14_se14escortno_000637c8_1.mp3",
+          "name": "se14_se14escortno_000637c8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se14_se14escortwait_000637e3_1.mp3",
+          "name": "se14_se14escortwait_000637e3_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\se14_se14escortyes_000637d8_1.mp3",
+          "name": "se14_se14escortyes_000637d8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_00045750_1.mp3",
+          "name": "secrime_greeting_00045750_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_00045751_1.mp3",
+          "name": "secrime_greeting_00045751_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_00045752_1.mp3",
+          "name": "secrime_greeting_00045752_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_00045753_1.mp3",
+          "name": "secrime_greeting_00045753_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_00045754_1.mp3",
+          "name": "secrime_greeting_00045754_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_00045755_1.mp3",
+          "name": "secrime_greeting_00045755_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_00045756_1.mp3",
+          "name": "secrime_greeting_00045756_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_00045757_1.mp3",
+          "name": "secrime_greeting_00045757_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_00045758_1.mp3",
+          "name": "secrime_greeting_00045758_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_0004575a_1.mp3",
+          "name": "secrime_greeting_0004575a_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_0004575b_1.mp3",
+          "name": "secrime_greeting_0004575b_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_000459b3_1.mp3",
+          "name": "secrime_greeting_000459b3_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_000459b3_2.mp3",
+          "name": "secrime_greeting_000459b3_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_000459b4_1.mp3",
+          "name": "secrime_greeting_000459b4_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_000459b4_2.mp3",
+          "name": "secrime_greeting_000459b4_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_000459b5_1.mp3",
+          "name": "secrime_greeting_000459b5_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_000459b5_2.mp3",
+          "name": "secrime_greeting_000459b5_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_000459b7_1.mp3",
+          "name": "secrime_greeting_000459b7_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_000459b7_2.mp3",
+          "name": "secrime_greeting_000459b7_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_greeting_00045d2c_1.mp3",
+          "name": "secrime_greeting_00045d2c_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_paygoldforcrime_0004575f_1.mp3",
+          "name": "secrime_paygoldforcrime_0004575f_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_paygoldforcrime_00045765_1.mp3",
+          "name": "secrime_paygoldforcrime_00045765_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_paygoldforcrime_00045765_2.mp3",
+          "name": "secrime_paygoldforcrime_00045765_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_paygoldforcrime_000459d0_1.mp3",
+          "name": "secrime_paygoldforcrime_000459d0_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_resistarrest_0004575e_1.mp3",
+          "name": "secrime_resistarrest_0004575e_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_resistarrest_00045767_1.mp3",
+          "name": "secrime_resistarrest_00045767_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_resistarrest_00045768_1.mp3",
+          "name": "secrime_resistarrest_00045768_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_resistarrest_000459b6_1.mp3",
+          "name": "secrime_resistarrest_000459b6_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_resistarrest_000459b8_1.mp3",
+          "name": "secrime_resistarrest_000459b8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_sepaygoldforcrime_000459c8_1.mp3",
+          "name": "secrime_sepaygoldforcrime_000459c8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_sepaygoldforcrime_000459c8_2.mp3",
+          "name": "secrime_sepaygoldforcrime_000459c8_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_seresistarrest_000459c6_1.mp3",
+          "name": "secrime_seresistarrest_000459c6_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_servesentence_00045759_1.mp3",
+          "name": "secrime_servesentence_00045759_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_servesentence_0004575c_1.mp3",
+          "name": "secrime_servesentence_0004575c_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_servesentence_000459b9_1.mp3",
+          "name": "secrime_servesentence_000459b9_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_seservesentence_000459c5_1.mp3",
+          "name": "secrime_seservesentence_000459c5_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\secrime_seservesentence_000459c5_2.mp3",
+          "name": "secrime_seservesentence_000459c5_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_attack_00061ccf_1.mp3",
+          "name": "senqdgeneric_attack_00061ccf_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_attack_00061cd0_1.mp3",
+          "name": "senqdgeneric_attack_00061cd0_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_attack_00061cd1_1.mp3",
+          "name": "senqdgeneric_attack_00061cd1_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_attack_00061cd2_1.mp3",
+          "name": "senqdgeneric_attack_00061cd2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_goodbye_00061cb8_1.mp3",
+          "name": "senqdgeneric_goodbye_00061cb8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_goodbye_0007a01a_1.mp3",
+          "name": "senqdgeneric_goodbye_0007a01a_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_goodbye_0007a01c_1.mp3",
+          "name": "senqdgeneric_goodbye_0007a01c_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_greeting_00018f89_1.mp3",
+          "name": "senqdgeneric_greeting_00018f89_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_greeting_00069752_1.mp3",
+          "name": "senqdgeneric_greeting_00069752_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_greeting_00070f85_1.mp3",
+          "name": "senqdgeneric_greeting_00070f85_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_greeting_00070f86_1.mp3",
+          "name": "senqdgeneric_greeting_00070f86_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_greeting_00070fa2_1.mp3",
+          "name": "senqdgeneric_greeting_00070fa2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_greeting_00071016_1.mp3",
+          "name": "senqdgeneric_greeting_00071016_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_greeting_00071017_1.mp3",
+          "name": "senqdgeneric_greeting_00071017_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_greeting_0007a01b_1.mp3",
+          "name": "senqdgeneric_greeting_0007a01b_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_greeting_0007cfdf_1.mp3",
+          "name": "senqdgeneric_greeting_0007cfdf_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_greeting_0007cfe0_1.mp3",
+          "name": "senqdgeneric_greeting_0007cfe0_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_greeting_0007cfe1_1.mp3",
+          "name": "senqdgeneric_greeting_0007cfe1_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_greeting_00080d19_1.mp3",
+          "name": "senqdgeneric_greeting_00080d19_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_greeting_00082570_1.mp3",
+          "name": "senqdgeneric_greeting_00082570_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_greeting_0008ea34_1.mp3",
+          "name": "senqdgeneric_greeting_0008ea34_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hello_00061c78_1.mp3",
+          "name": "senqdgeneric_hello_00061c78_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hello_00061c7d_1.mp3",
+          "name": "senqdgeneric_hello_00061c7d_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hello_00061c7e_1.mp3",
+          "name": "senqdgeneric_hello_00061c7e_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hello_00061c7f_1.mp3",
+          "name": "senqdgeneric_hello_00061c7f_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hello_0007a019_1.mp3",
+          "name": "senqdgeneric_hello_0007a019_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hello_0007a01d_1.mp3",
+          "name": "senqdgeneric_hello_0007a01d_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hello_0007d04f_1.mp3",
+          "name": "senqdgeneric_hello_0007d04f_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hello_0007d050_1.mp3",
+          "name": "senqdgeneric_hello_0007d050_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hello_00080d8e_1.mp3",
+          "name": "senqdgeneric_hello_00080d8e_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hello_00080d8f_1.mp3",
+          "name": "senqdgeneric_hello_00080d8f_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hello_0008fa95_1.mp3",
+          "name": "senqdgeneric_hello_0008fa95_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hello_0008fa96_1.mp3",
+          "name": "senqdgeneric_hello_0008fa96_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hello_0008fa97_1.mp3",
+          "name": "senqdgeneric_hello_0008fa97_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hello_0008fa98_1.mp3",
+          "name": "senqdgeneric_hello_0008fa98_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hello_0008fa99_1.mp3",
+          "name": "senqdgeneric_hello_0008fa99_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hit_00061c81_1.mp3",
+          "name": "senqdgeneric_hit_00061c81_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hit_00061c82_1.mp3",
+          "name": "senqdgeneric_hit_00061c82_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hit_00061c86_1.mp3",
+          "name": "senqdgeneric_hit_00061c86_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_hit_00061c95_1.mp3",
+          "name": "senqdgeneric_hit_00061c95_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_infogeneral_000914e2_1.mp3",
+          "name": "senqdgeneric_infogeneral_000914e2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_infogeneral_00091597_1.mp3",
+          "name": "senqdgeneric_infogeneral_00091597_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_infogeneral_000915bc_1.mp3",
+          "name": "senqdgeneric_infogeneral_000915bc_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_infogeneral_000915be_1.mp3",
+          "name": "senqdgeneric_infogeneral_000915be_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_infogeneral_000915bf_1.mp3",
+          "name": "senqdgeneric_infogeneral_000915bf_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_powerattack_00061c76_1.mp3",
+          "name": "senqdgeneric_powerattack_00061c76_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_powerattack_00061c77_1.mp3",
+          "name": "senqdgeneric_powerattack_00061c77_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_powerattack_00061c8e_1.mp3",
+          "name": "senqdgeneric_powerattack_00061c8e_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_powerattack_00061c8f_1.mp3",
+          "name": "senqdgeneric_powerattack_00061c8f_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_powerattack_00061cce_1.mp3",
+          "name": "senqdgeneric_powerattack_00061cce_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_se10wellspringofmazken_0008ef32_1.mp3",
+          "name": "senqdgeneric_se10wellspringofmazken_0008ef32_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_senewsheothtopic_00078ca4_1.mp3",
+          "name": "senqdgeneric_senewsheothtopic_00078ca4_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_sesheogorathtopic_00078c68_1.mp3",
+          "name": "senqdgeneric_sesheogorathtopic_00078c68_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_seshiveringislestopic_00078ca7_1.mp3",
+          "name": "senqdgeneric_seshiveringislestopic_00078ca7_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_transition_00060955_1.mp3",
+          "name": "senqdgeneric_transition_00060955_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_transition_000617c6_1.mp3",
+          "name": "senqdgeneric_transition_000617c6_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_transition_000617c7_1.mp3",
+          "name": "senqdgeneric_transition_000617c7_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_transition_000617c8_1.mp3",
+          "name": "senqdgeneric_transition_000617c8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_transition_000617c9_1.mp3",
+          "name": "senqdgeneric_transition_000617c9_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_trespass_0007dfe7_1.mp3",
+          "name": "senqdgeneric_trespass_0007dfe7_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_trespass_0007dfe8_1.mp3",
+          "name": "senqdgeneric_trespass_0007dfe8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_trespass_0007dfe9_1.mp3",
+          "name": "senqdgeneric_trespass_0007dfe9_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\f\\senqdgeneric_trespass_0007dfea_1.mp3",
+          "name": "senqdgeneric_trespass_0007dfea_1.mp3"
+        }
+      ]
+    },
+    {
+      "path": "oblivion\\golden saint\\m",
+      "name": "m",
+      "children": [
+        {
+          "path": "oblivion\\golden saint\\m\\se04_sechaliceofreversal_00082470_1.mp3",
+          "name": "se04_sechaliceofreversal_00082470_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_goodbye_00043f1d_1.mp3",
+          "name": "se06_goodbye_00043f1d_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_greeting_00018f86_1.mp3",
+          "name": "se06_greeting_00018f86_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_greeting_00018f87_1.mp3",
+          "name": "se06_greeting_00018f87_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_greeting_000192e4_1.mp3",
+          "name": "se06_greeting_000192e4_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_greeting_00054fa0_1.mp3",
+          "name": "se06_greeting_00054fa0_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_hello_0003e65f_1.mp3",
+          "name": "se06_hello_0003e65f_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_hello_00080d88_1.mp3",
+          "name": "se06_hello_00080d88_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_hello_00080d89_1.mp3",
+          "name": "se06_hello_00080d89_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_hello_00080d8b_1.mp3",
+          "name": "se06_hello_00080d8b_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_hello_00080d8c_1.mp3",
+          "name": "se06_hello_00080d8c_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_hello_00080d8d_1.mp3",
+          "name": "se06_hello_00080d8d_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_hello_000826d4_1.mp3",
+          "name": "se06_hello_000826d4_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06flameagnon_0003e6af_3.mp3",
+          "name": "se06_se06flameagnon_0003e6af_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06flameagnon_0003e6af_4.mp3",
+          "name": "se06_se06flameagnon_0003e6af_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06kanehmirel_00012102_1.mp3",
+          "name": "se06_se06kanehmirel_00012102_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06kanehmirel_00012cbc_1.mp3",
+          "name": "se06_se06kanehmirel_00012cbc_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06kanehtopic_00018dc4_1.mp3",
+          "name": "se06_se06kanehtopic_00018dc4_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06maikichoicea_00012cbe_1.mp3",
+          "name": "se06_se06maikichoicea_00012cbe_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06maikichoicea_00012cbe_2.mp3",
+          "name": "se06_se06maikichoicea_00012cbe_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06maikichoicea_00012cbe_3.mp3",
+          "name": "se06_se06maikichoicea_00012cbe_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06maikichoicea_00012cbe_4.mp3",
+          "name": "se06_se06maikichoicea_00012cbe_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06maikichoiceb_00012cbf_1.mp3",
+          "name": "se06_se06maikichoiceb_00012cbf_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06shoutstartattack_00054fa5_1.mp3",
+          "name": "se06_se06shoutstartattack_00054fa5_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06shoutstartcombat_00054fab_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054fab_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06shoutstartcombat_00054fac_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054fac_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06shoutstartcombat_00054fad_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054fad_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06shoutstartcombat_00054fae_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054fae_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06shoutstartcombat_00054faf_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054faf_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06shoutstartcombat_00054fb0_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054fb0_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06sidepassage_00012cbd_1.mp3",
+          "name": "se06_se06sidepassage_00012cbd_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06sidepassage_00012cbd_2.mp3",
+          "name": "se06_se06sidepassage_00012cbd_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06sidepassage_00012cbd_3.mp3",
+          "name": "se06_se06sidepassage_00012cbd_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_se06sidepassage_00012cbd_4.mp3",
+          "name": "se06_se06sidepassage_00012cbd_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_sealtarofdespairtopic_0007ff5f_3.mp3",
+          "name": "se06_sealtarofdespairtopic_0007ff5f_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_sealtarofdespairtopic_0007ff5f_4.mp3",
+          "name": "se06_sealtarofdespairtopic_0007ff5f_4.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_sealtarofrapturetopic_0007ff61_3.mp3",
+          "name": "se06_sealtarofrapturetopic_0007ff61_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_sealtarofrapturetopic_0007ff62_3.mp3",
+          "name": "se06_sealtarofrapturetopic_0007ff62_3.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_seaureals_00012cc1_1.mp3",
+          "name": "se06_seaureals_00012cc1_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_sebrellachtopic_00018dc5_1.mp3",
+          "name": "se06_sebrellachtopic_00018dc5_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se06_semazken_00012cc3_1.mp3",
+          "name": "se06_semazken_00012cc3_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08fin_goodbye_0008ef56_1.mp3",
+          "name": "se08fin_goodbye_0008ef56_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08fin_goodbye_0008ef57_1.mp3",
+          "name": "se08fin_goodbye_0008ef57_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08fin_greeting_0007fde1_1.mp3",
+          "name": "se08fin_greeting_0007fde1_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08fin_greeting_0007fde2_1.mp3",
+          "name": "se08fin_greeting_0007fde2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08fin_greeting_0007fde3_1.mp3",
+          "name": "se08fin_greeting_0007fde3_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08fin_greeting_0007fde4_1.mp3",
+          "name": "se08fin_greeting_0007fde4_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08fin_greeting_0007fde5_1.mp3",
+          "name": "se08fin_greeting_0007fde5_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08fin_hello_0008ef54_1.mp3",
+          "name": "se08fin_hello_0008ef54_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08fin_hello_0008ef55_1.mp3",
+          "name": "se08fin_hello_0008ef55_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_goodbye_0008247a_1.mp3",
+          "name": "se08_goodbye_0008247a_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_goodbye_0008247b_1.mp3",
+          "name": "se08_goodbye_0008247b_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_goodbye_0008247c_1.mp3",
+          "name": "se08_goodbye_0008247c_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_goodbye_0008247d_1.mp3",
+          "name": "se08_goodbye_0008247d_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_goodbye_0008247e_1.mp3",
+          "name": "se08_goodbye_0008247e_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_greeting_0001797d_1.mp3",
+          "name": "se08_greeting_0001797d_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_greeting_00017983_1.mp3",
+          "name": "se08_greeting_00017983_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_greeting_00017984_1.mp3",
+          "name": "se08_greeting_00017984_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_greeting_00017986_1.mp3",
+          "name": "se08_greeting_00017986_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_greeting_00018c78_1.mp3",
+          "name": "se08_greeting_00018c78_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_greeting_00018c79_1.mp3",
+          "name": "se08_greeting_00018c79_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_greeting_0001eb8e_1.mp3",
+          "name": "se08_greeting_0001eb8e_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_greeting_0001ebe0_1.mp3",
+          "name": "se08_greeting_0001ebe0_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_greeting_0001ebee_1.mp3",
+          "name": "se08_greeting_0001ebee_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_greeting_0001ebf2_1.mp3",
+          "name": "se08_greeting_0001ebf2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_greeting_0001ebf3_1.mp3",
+          "name": "se08_greeting_0001ebf3_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_greeting_00040b79_1.mp3",
+          "name": "se08_greeting_00040b79_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_hello_00082472_1.mp3",
+          "name": "se08_hello_00082472_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_hello_00082473_1.mp3",
+          "name": "se08_hello_00082473_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_hello_00082474_1.mp3",
+          "name": "se08_hello_00082474_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_hello_00082475_1.mp3",
+          "name": "se08_hello_00082475_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_hello_00082476_1.mp3",
+          "name": "se08_hello_00082476_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_hello_00082477_1.mp3",
+          "name": "se08_hello_00082477_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_hello_00082478_1.mp3",
+          "name": "se08_hello_00082478_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_hello_00082479_1.mp3",
+          "name": "se08_hello_00082479_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08ally01tactic1_000181bf_1.mp3",
+          "name": "se08_se08ally01tactic1_000181bf_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08ally01tactic2_000181be_1.mp3",
+          "name": "se08_se08ally01tactic2_000181be_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08ally01tactic3_000181bd_1.mp3",
+          "name": "se08_se08ally01tactic3_000181bd_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08ally02tactic1_000181d8_1.mp3",
+          "name": "se08_se08ally02tactic1_000181d8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08ally02tactic2_000181d7_1.mp3",
+          "name": "se08_se08ally02tactic2_000181d7_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08ally02tactic3_000181d5_1.mp3",
+          "name": "se08_se08ally02tactic3_000181d5_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08ally03tactic1_000181d3_1.mp3",
+          "name": "se08_se08ally03tactic1_000181d3_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08ally03tactic2_000181d2_1.mp3",
+          "name": "se08_se08ally03tactic2_000181d2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08ally03tactic3_000181cf_1.mp3",
+          "name": "se08_se08ally03tactic3_000181cf_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08ally04tactic1_000181ce_1.mp3",
+          "name": "se08_se08ally04tactic1_000181ce_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08ally04tactic2_000181cd_1.mp3",
+          "name": "se08_se08ally04tactic2_000181cd_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08ally04tactic3_000181cb_1.mp3",
+          "name": "se08_se08ally04tactic3_000181cb_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08knightstopic_00018c7c_1.mp3",
+          "name": "se08_se08knightstopic_00018c7c_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08obelisktopic_00091351_1.mp3",
+          "name": "se08_se08obelisktopic_00091351_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08obelisktopic_00091351_2.mp3",
+          "name": "se08_se08obelisktopic_00091351_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08orders_0001aeb0_1.mp3",
+          "name": "se08_se08orders_0001aeb0_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08orders_0001ec20_1.mp3",
+          "name": "se08_se08orders_0001ec20_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08orders_0001ec21_1.mp3",
+          "name": "se08_se08orders_0001ec21_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08orders_0001ec22_1.mp3",
+          "name": "se08_se08orders_0001ec22_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08passwalltopic_000415dc_1.mp3",
+          "name": "se08_se08passwalltopic_000415dc_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08spiretopic_00018c7a_1.mp3",
+          "name": "se08_se08spiretopic_00018c7a_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08spiretopic_000415da_1.mp3",
+          "name": "se08_se08spiretopic_000415da_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se08_se08thefringetopic_00080805_1.mp3",
+          "name": "se08_se08thefringetopic_00080805_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_attack_0008f524_1.mp3",
+          "name": "se10_attack_0008f524_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_attack_0008f525_1.mp3",
+          "name": "se10_attack_0008f525_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_attack_0008f527_1.mp3",
+          "name": "se10_attack_0008f527_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_goodbye_0008f041_1.mp3",
+          "name": "se10_goodbye_0008f041_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_goodbye_0008f043_1.mp3",
+          "name": "se10_goodbye_0008f043_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_goodbye_0008f047_1.mp3",
+          "name": "se10_goodbye_0008f047_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_greeting_00055b03_1.mp3",
+          "name": "se10_greeting_00055b03_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_greeting_00055b03_2.mp3",
+          "name": "se10_greeting_00055b03_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_greeting_00055b04_1.mp3",
+          "name": "se10_greeting_00055b04_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_greeting_00055b04_2.mp3",
+          "name": "se10_greeting_00055b04_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_greeting_00079c0a_1.mp3",
+          "name": "se10_greeting_00079c0a_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_greeting_0008f048_1.mp3",
+          "name": "se10_greeting_0008f048_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_greeting_0008f049_1.mp3",
+          "name": "se10_greeting_0008f049_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_hello_00081cb1_1.mp3",
+          "name": "se10_hello_00081cb1_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_hello_00081cb2_1.mp3",
+          "name": "se10_hello_00081cb2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_se10follow_00055fd9_1.mp3",
+          "name": "se10_se10follow_00055fd9_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_se10wait_00055b02_1.mp3",
+          "name": "se10_se10wait_00055b02_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_se10wait_00055b05_1.mp3",
+          "name": "se10_se10wait_00055b05_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_se10wellspringofaureal_0008f179_1.mp3",
+          "name": "se10_se10wellspringofaureal_0008f179_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_sebrellachtopic_0008f04c_1.mp3",
+          "name": "se10_sebrellachtopic_0008f04c_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_sebrellachtopic_0008f04c_2.mp3",
+          "name": "se10_sebrellachtopic_0008f04c_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_sethadontopic_0008f178_1.mp3",
+          "name": "se10_sethadontopic_0008f178_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se10_sethadontopic_0008f178_2.mp3",
+          "name": "se10_sethadontopic_0008f178_2.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se12_se12traitortaunts_0001a379_1.mp3",
+          "name": "se12_se12traitortaunts_0001a379_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\se13_greeting_0001a799_1.mp3",
+          "name": "se13_greeting_0001a799_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_attack_00061ccf_1.mp3",
+          "name": "senqdgeneric_attack_00061ccf_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_attack_00061cd0_1.mp3",
+          "name": "senqdgeneric_attack_00061cd0_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_attack_00061cd1_1.mp3",
+          "name": "senqdgeneric_attack_00061cd1_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_attack_00061cd2_1.mp3",
+          "name": "senqdgeneric_attack_00061cd2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_goodbye_00061cb8_1.mp3",
+          "name": "senqdgeneric_goodbye_00061cb8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_goodbye_0007a01a_1.mp3",
+          "name": "senqdgeneric_goodbye_0007a01a_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_goodbye_0007a01c_1.mp3",
+          "name": "senqdgeneric_goodbye_0007a01c_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_greeting_00018f89_1.mp3",
+          "name": "senqdgeneric_greeting_00018f89_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_greeting_00069752_1.mp3",
+          "name": "senqdgeneric_greeting_00069752_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_greeting_00070f85_1.mp3",
+          "name": "senqdgeneric_greeting_00070f85_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_greeting_00070f86_1.mp3",
+          "name": "senqdgeneric_greeting_00070f86_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_greeting_00070fa2_1.mp3",
+          "name": "senqdgeneric_greeting_00070fa2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_greeting_00071016_1.mp3",
+          "name": "senqdgeneric_greeting_00071016_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_greeting_00071017_1.mp3",
+          "name": "senqdgeneric_greeting_00071017_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_greeting_00078fd7_1.mp3",
+          "name": "senqdgeneric_greeting_00078fd7_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_greeting_0007a01b_1.mp3",
+          "name": "senqdgeneric_greeting_0007a01b_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hello_00061c78_1.mp3",
+          "name": "senqdgeneric_hello_00061c78_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hello_00061c7d_1.mp3",
+          "name": "senqdgeneric_hello_00061c7d_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hello_00061c80_1.mp3",
+          "name": "senqdgeneric_hello_00061c80_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hello_00061c96_1.mp3",
+          "name": "senqdgeneric_hello_00061c96_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hello_0007a019_1.mp3",
+          "name": "senqdgeneric_hello_0007a019_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hello_0007a01d_1.mp3",
+          "name": "senqdgeneric_hello_0007a01d_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hello_00080d8e_1.mp3",
+          "name": "senqdgeneric_hello_00080d8e_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hello_00080d8f_1.mp3",
+          "name": "senqdgeneric_hello_00080d8f_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hello_0008fa95_1.mp3",
+          "name": "senqdgeneric_hello_0008fa95_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hello_0008fa96_1.mp3",
+          "name": "senqdgeneric_hello_0008fa96_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hello_0008fa97_1.mp3",
+          "name": "senqdgeneric_hello_0008fa97_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hello_0008fa98_1.mp3",
+          "name": "senqdgeneric_hello_0008fa98_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hello_0008fa99_1.mp3",
+          "name": "senqdgeneric_hello_0008fa99_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hit_00061c81_1.mp3",
+          "name": "senqdgeneric_hit_00061c81_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hit_00061c82_1.mp3",
+          "name": "senqdgeneric_hit_00061c82_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hit_00061c86_1.mp3",
+          "name": "senqdgeneric_hit_00061c86_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_hit_00061c95_1.mp3",
+          "name": "senqdgeneric_hit_00061c95_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_infogeneral_000914e2_1.mp3",
+          "name": "senqdgeneric_infogeneral_000914e2_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_infogeneral_00091597_1.mp3",
+          "name": "senqdgeneric_infogeneral_00091597_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_infogeneral_000915bc_1.mp3",
+          "name": "senqdgeneric_infogeneral_000915bc_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_infogeneral_000915be_1.mp3",
+          "name": "senqdgeneric_infogeneral_000915be_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_infogeneral_000915bf_1.mp3",
+          "name": "senqdgeneric_infogeneral_000915bf_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_powerattack_00061c76_1.mp3",
+          "name": "senqdgeneric_powerattack_00061c76_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_powerattack_00061c77_1.mp3",
+          "name": "senqdgeneric_powerattack_00061c77_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_powerattack_00061c8e_1.mp3",
+          "name": "senqdgeneric_powerattack_00061c8e_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_powerattack_00061c8f_1.mp3",
+          "name": "senqdgeneric_powerattack_00061c8f_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_powerattack_00061cce_1.mp3",
+          "name": "senqdgeneric_powerattack_00061cce_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_se10wellspringofmazken_0008ef32_1.mp3",
+          "name": "senqdgeneric_se10wellspringofmazken_0008ef32_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_senewsheothtopic_00078ca4_1.mp3",
+          "name": "senqdgeneric_senewsheothtopic_00078ca4_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_sesheogorathtopic_00078c68_1.mp3",
+          "name": "senqdgeneric_sesheogorathtopic_00078c68_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_seshiveringislestopic_00078ca7_1.mp3",
+          "name": "senqdgeneric_seshiveringislestopic_00078ca7_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_transition_00060955_1.mp3",
+          "name": "senqdgeneric_transition_00060955_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_transition_000617c6_1.mp3",
+          "name": "senqdgeneric_transition_000617c6_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_transition_000617c7_1.mp3",
+          "name": "senqdgeneric_transition_000617c7_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_transition_000617c8_1.mp3",
+          "name": "senqdgeneric_transition_000617c8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_transition_000617c9_1.mp3",
+          "name": "senqdgeneric_transition_000617c9_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_trespass_0007dfe7_1.mp3",
+          "name": "senqdgeneric_trespass_0007dfe7_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_trespass_0007dfe8_1.mp3",
+          "name": "senqdgeneric_trespass_0007dfe8_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_trespass_0007dfe9_1.mp3",
+          "name": "senqdgeneric_trespass_0007dfe9_1.mp3"
+        },
+        {
+          "path": "oblivion\\golden saint\\m\\senqdgeneric_trespass_0007dfea_1.mp3",
+          "name": "senqdgeneric_trespass_0007dfea_1.mp3"
+        }
+      ]
+    }
+  ]
+}

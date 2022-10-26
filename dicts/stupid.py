@@ -1,0 +1,21 @@
+stupid_sound_dict = {
+    'bread': 'stupid/bread.mp3',
+    'bob': 'stupid/bob.mp3',
+    'cat': 'stupid/cat.mp3',
+    'here': 'stupid/here.mp3',
+    'here2': 'stupid/here2.mp3',
+    'honey': 'stupid/honeysauce.mp3',
+    'nice': 'stupid/nice.mp3',
+    'ph': 'stupid/ph.mp3',
+    'smellz': 'stupid/smellz.mp3',
+    'snake': 'stupid/snake.mp3',
+    'stepbro': 'stupid/stepbro.mp3',
+    'trap': 'stupid/trap.mp3',
+    'work': 'stupid/work.mp3',
+    'wow': 'stupid/wow.mp3',
+    # Overwatch
+    'dva': 'stupid/dva.mp3',
+    'genji': 'stupid/genji.mp3',
+    'mccree': 'stupid/mccree.mp3',
+    's76': 'stupid/s76.mp3',
+}

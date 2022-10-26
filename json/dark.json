@@ -1,0 +1,2314 @@
+{
+  "path": "oblivion/dark seducer/",
+  "name": "dark seducer",
+  "children": [
+    {
+      "path": "oblivion\\dark seducer\\f",
+      "name": "f",
+      "children": [
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_greeting_00018e7e_1.mp3",
+          "name": "se00_greeting_00018e7e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_greeting_0008256f_1.mp3",
+          "name": "se00_greeting_0008256f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_greeting_00082572_1.mp3",
+          "name": "se00_greeting_00082572_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_greeting_0008e657_1.mp3",
+          "name": "se00_greeting_0008e657_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_greeting_0008e658_1.mp3",
+          "name": "se00_greeting_0008e658_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_hello_0008e65c_1.mp3",
+          "name": "se00_hello_0008e65c_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_hello_0008e65e_1.mp3",
+          "name": "se00_hello_0008e65e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_se06dswardengreet2_00018e7f_1.mp3",
+          "name": "se00_se06dswardengreet2_00018e7f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_se06dswardengreet2_00018e80_1.mp3",
+          "name": "se00_se06dswardengreet2_00018e80_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_se06dswardengreet2_00018e81_1.mp3",
+          "name": "se00_se06dswardengreet2_00018e81_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_se06dswardengreet2_00018e82_1.mp3",
+          "name": "se00_se06dswardengreet2_00018e82_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_se06dswardengreet2_00018e83_1.mp3",
+          "name": "se00_se06dswardengreet2_00018e83_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_se06dswardengreet2_00018e84_1.mp3",
+          "name": "se00_se06dswardengreet2_00018e84_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_se06dswardengreet2_00018e85_1.mp3",
+          "name": "se00_se06dswardengreet2_00018e85_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_se06dswardengreet2_00018e86_1.mp3",
+          "name": "se00_se06dswardengreet2_00018e86_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_se06dswardengreet2_00018e87_1.mp3",
+          "name": "se00_se06dswardengreet2_00018e87_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_se06dswardengreet2_00018e88_1.mp3",
+          "name": "se00_se06dswardengreet2_00018e88_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_se06dswardengreet2_00018e88_2.mp3",
+          "name": "se00_se06dswardengreet2_00018e88_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_se06dswardengreet2_00018e89_1.mp3",
+          "name": "se00_se06dswardengreet2_00018e89_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_se06dswardengreet3_00018e8a_1.mp3",
+          "name": "se00_se06dswardengreet3_00018e8a_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se00_se06dswardengreet3_00018e8b_1.mp3",
+          "name": "se00_se06dswardengreet3_00018e8b_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05conversations_se05eavesdropdetected_00081184_1.mp3",
+          "name": "se05conversations_se05eavesdropdetected_00081184_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05conversations_se05eavesdrop_00081179_1.mp3",
+          "name": "se05conversations_se05eavesdrop_00081179_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05conversations_se05eavesdrop_0008117c_1.mp3",
+          "name": "se05conversations_se05eavesdrop_0008117c_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05conversations_se05eavesdrop_00081185_1.mp3",
+          "name": "se05conversations_se05eavesdrop_00081185_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05conversations_se05eavesdrop_00089445_1.mp3",
+          "name": "se05conversations_se05eavesdrop_00089445_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05conversations_se05eavesdrop_00089446_1.mp3",
+          "name": "se05conversations_se05eavesdrop_00089446_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05conversations_se05interrogate4_00015628_1.mp3",
+          "name": "se05conversations_se05interrogate4_00015628_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05conversations_se05interrogate4_0001562a_1.mp3",
+          "name": "se05conversations_se05interrogate4_0001562a_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05conversations_se05interrogate4_0001562c_1.mp3",
+          "name": "se05conversations_se05interrogate4_0001562c_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05conversations_se05interrogate4_0001562e_1.mp3",
+          "name": "se05conversations_se05interrogate4_0001562e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05conversations_se05interrogate4_00015630_1.mp3",
+          "name": "se05conversations_se05interrogate4_00015630_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05conversations_se05interrogate4_00015632_1.mp3",
+          "name": "se05conversations_se05interrogate4_00015632_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_greeting_0008199e_1.mp3",
+          "name": "se05_greeting_0008199e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_greeting_0008ebf7_1.mp3",
+          "name": "se05_greeting_0008ebf7_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05conspiracy_0007fdf2_1.mp3",
+          "name": "se05_se05conspiracy_0007fdf2_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05conspiracy_000811c8_1.mp3",
+          "name": "se05_se05conspiracy_000811c8_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05conspiracy_000811cb_1.mp3",
+          "name": "se05_se05conspiracy_000811cb_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05conspiracy_0008199d_1.mp3",
+          "name": "se05_se05conspiracy_0008199d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05conspiracy_00089530_1.mp3",
+          "name": "se05_se05conspiracy_00089530_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05nelrenehaveproof_0008199f_1.mp3",
+          "name": "se05_se05nelrenehaveproof_0008199f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05nelrenehaveproof_0008199f_2.mp3",
+          "name": "se05_se05nelrenehaveproof_0008199f_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05nelrenesawyou_000811c9_1.mp3",
+          "name": "se05_se05nelrenesawyou_000811c9_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05nelrenesawyou_000811c9_2.mp3",
+          "name": "se05_se05nelrenesawyou_000811c9_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05posttorturegreet_0007ff43_1.mp3",
+          "name": "se05_se05posttorturegreet_0007ff43_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05posttorturegreet_00080d7e_1.mp3",
+          "name": "se05_se05posttorturegreet_00080d7e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05posttorturegreet_00080d7e_2.mp3",
+          "name": "se05_se05posttorturegreet_00080d7e_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05posttorturegreet_00080d7e_3.mp3",
+          "name": "se05_se05posttorturegreet_00080d7e_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05posttorturegreet_000811c7_1.mp3",
+          "name": "se05_se05posttorturegreet_000811c7_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05torturechoice1f_000805a7_1.mp3",
+          "name": "se05_se05torturechoice1f_000805a7_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05torturechoice2f_000805a8_1.mp3",
+          "name": "se05_se05torturechoice2f_000805a8_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se05_se05torturechoice3_0007ff44_1.mp3",
+          "name": "se05_se05torturechoice3_0007ff44_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_goodbye_00043f1d_1.mp3",
+          "name": "se06_goodbye_00043f1d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_greeting_000131a9_1.mp3",
+          "name": "se06_greeting_000131a9_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_greeting_000131a9_2.mp3",
+          "name": "se06_greeting_000131a9_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_greeting_000131b1_1.mp3",
+          "name": "se06_greeting_000131b1_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_greeting_000131c2_1.mp3",
+          "name": "se06_greeting_000131c2_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_greeting_00018f8a_1.mp3",
+          "name": "se06_greeting_00018f8a_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_greeting_00018f8c_1.mp3",
+          "name": "se06_greeting_00018f8c_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_greeting_00018f96_1.mp3",
+          "name": "se06_greeting_00018f96_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_greeting_00018f97_1.mp3",
+          "name": "se06_greeting_00018f97_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_greeting_000192e6_1.mp3",
+          "name": "se06_greeting_000192e6_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_greeting_000192e7_1.mp3",
+          "name": "se06_greeting_000192e7_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_hello_0003e65f_1.mp3",
+          "name": "se06_hello_0003e65f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_hello_00080d89_1.mp3",
+          "name": "se06_hello_00080d89_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_hello_00080d8a_1.mp3",
+          "name": "se06_hello_00080d8a_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_hello_00080d8c_1.mp3",
+          "name": "se06_hello_00080d8c_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_hello_00080d8d_1.mp3",
+          "name": "se06_hello_00080d8d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_hello_000826d5_1.mp3",
+          "name": "se06_hello_000826d5_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_hello_000826d6_1.mp3",
+          "name": "se06_hello_000826d6_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06dswardengreet1_00018f8d_1.mp3",
+          "name": "se06_se06dswardengreet1_00018f8d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06flameagnon_000131b4_1.mp3",
+          "name": "se06_se06flameagnon_000131b4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06flameagnon_000131b4_2.mp3",
+          "name": "se06_se06flameagnon_000131b4_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06flameagnon_000131b4_3.mp3",
+          "name": "se06_se06flameagnon_000131b4_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06flameagnon_000131b4_4.mp3",
+          "name": "se06_se06flameagnon_000131b4_4.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06flameagnon_0003e6a5_3.mp3",
+          "name": "se06_se06flameagnon_0003e6a5_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06flameagnon_0003e6a5_4.mp3",
+          "name": "se06_se06flameagnon_0003e6a5_4.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06flameagnon_0003e6ad_3.mp3",
+          "name": "se06_se06flameagnon_0003e6ad_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06flameagnon_0003e6ad_4.mp3",
+          "name": "se06_se06flameagnon_0003e6ad_4.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06greetb1_0003e6b7_1.mp3",
+          "name": "se06_se06greetb1_0003e6b7_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06greetb1_0003e6b7_2.mp3",
+          "name": "se06_se06greetb1_0003e6b7_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06helpdefenda1_000131b7_1.mp3",
+          "name": "se06_se06helpdefenda1_000131b7_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06helpdefenda2_000131b8_1.mp3",
+          "name": "se06_se06helpdefenda2_000131b8_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06helpdefenda2_000131b8_2.mp3",
+          "name": "se06_se06helpdefenda2_000131b8_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06helpdefenda2_000131b8_3.mp3",
+          "name": "se06_se06helpdefenda2_000131b8_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06helpdefenda3_00018f9a_1.mp3",
+          "name": "se06_se06helpdefenda3_00018f9a_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06helpdefenda3_00018f9a_2.mp3",
+          "name": "se06_se06helpdefenda3_00018f9a_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06helpdefenda4_000131b9_1.mp3",
+          "name": "se06_se06helpdefenda4_000131b9_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06helpdefend_000131b5_1.mp3",
+          "name": "se06_se06helpdefend_000131b5_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06helpdefend_000131b5_2.mp3",
+          "name": "se06_se06helpdefend_000131b5_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06helpdefend_000131b5_3.mp3",
+          "name": "se06_se06helpdefend_000131b5_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06helpdefend_000131b6_3.mp3",
+          "name": "se06_se06helpdefend_000131b6_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06helpdefend_00018f8b_3.mp3",
+          "name": "se06_se06helpdefend_00018f8b_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06shoutbetrayal_00054fb3_1.mp3",
+          "name": "se06_se06shoutbetrayal_00054fb3_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06shoutstartattack_00054fa4_1.mp3",
+          "name": "se06_se06shoutstartattack_00054fa4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06shoutstartcombat_00054fa6_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054fa6_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06shoutstartcombat_00054fa7_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054fa7_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06shoutstartcombat_00054fa8_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054fa8_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06shoutstartcombat_00054fa9_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054fa9_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06shoutstartcombat_00054faa_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054faa_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06shoutstartcombat_00054fb1_1.mp3",
+          "name": "se06_se06shoutstartcombat_00054fb1_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06stelagreeta1_00018f92_1.mp3",
+          "name": "se06_se06stelagreeta1_00018f92_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06stelagreeta2_00018f93_1.mp3",
+          "name": "se06_se06stelagreeta2_00018f93_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06stelagreeta3_00018f94_1.mp3",
+          "name": "se06_se06stelagreeta3_00018f94_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06ulfrifinala_000400e0_2.mp3",
+          "name": "se06_se06ulfrifinala_000400e0_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06ulfrifinala_000400e0_3.mp3",
+          "name": "se06_se06ulfrifinala_000400e0_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06ulfrifinalb_000400e1_2.mp3",
+          "name": "se06_se06ulfrifinalb_000400e1_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06ulfrifinalb_000400e1_3.mp3",
+          "name": "se06_se06ulfrifinalb_000400e1_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06ulfrifinalc_000400e2_2.mp3",
+          "name": "se06_se06ulfrifinalc_000400e2_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06ulfrifinalc_000400e2_3.mp3",
+          "name": "se06_se06ulfrifinalc_000400e2_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06ulfrigreeta1_000131b2_1.mp3",
+          "name": "se06_se06ulfrigreeta1_000131b2_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06ulfrigreeta1_000131b2_2.mp3",
+          "name": "se06_se06ulfrigreeta1_000131b2_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06ulfrigreeta2_000131b3_1.mp3",
+          "name": "se06_se06ulfrigreeta2_000131b3_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06ulfrigreeta2_000131b3_2.mp3",
+          "name": "se06_se06ulfrigreeta2_000131b3_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06ulfriredeploy_00054fb4_1.mp3",
+          "name": "se06_se06ulfriredeploy_00054fb4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_se06ulfritopic_00018f8e_1.mp3",
+          "name": "se06_se06ulfritopic_00018f8e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_sealtarofdespairtopic_0007ff5d_3.mp3",
+          "name": "se06_sealtarofdespairtopic_0007ff5d_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_sealtarofdespairtopic_0007ff5e_3.mp3",
+          "name": "se06_sealtarofdespairtopic_0007ff5e_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_sealtarofdespairtopic_0007ff5e_4.mp3",
+          "name": "se06_sealtarofdespairtopic_0007ff5e_4.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_sealtarofrapturetopic_0007ff60_3.mp3",
+          "name": "se06_sealtarofrapturetopic_0007ff60_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_seaureals_00012cc2_1.mp3",
+          "name": "se06_seaureals_00012cc2_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_semazken_00012cc4_1.mp3",
+          "name": "se06_semazken_00012cc4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se06_sepinnaclerocktopic_00080d92_1.mp3",
+          "name": "se06_sepinnaclerocktopic_00080d92_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se07a_se07aanya_00013a6d_1.mp3",
+          "name": "se07a_se07aanya_00013a6d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se07a_se07aanya_00013a6d_2.mp3",
+          "name": "se07a_se07aanya_00013a6d_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se07a_se07aanya_00013a6e_1.mp3",
+          "name": "se07a_se07aanya_00013a6e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se07a_se07akithlan_00013a6b_1.mp3",
+          "name": "se07a_se07akithlan_00013a6b_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se07a_se07akithlan_00013a6c_1.mp3",
+          "name": "se07a_se07akithlan_00013a6c_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se07a_se07asyl_00013a68_1.mp3",
+          "name": "se07a_se07asyl_00013a68_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se07a_se07asyl_00013a68_2.mp3",
+          "name": "se07a_se07asyl_00013a68_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se07b_se07bgreenmote_000167e5_1.mp3",
+          "name": "se07b_se07bgreenmote_000167e5_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se07b_se07bthadon_00016570_1.mp3",
+          "name": "se07b_se07bthadon_00016570_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se07b_se07bthadon_00016570_2.mp3",
+          "name": "se07b_se07bthadon_00016570_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_greeting_00017967_1.mp3",
+          "name": "se08_greeting_00017967_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_greeting_00017967_2.mp3",
+          "name": "se08_greeting_00017967_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_greeting_00017967_3.mp3",
+          "name": "se08_greeting_00017967_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_greeting_00017968_1.mp3",
+          "name": "se08_greeting_00017968_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_greeting_0001796b_1.mp3",
+          "name": "se08_greeting_0001796b_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_greeting_0001796c_1.mp3",
+          "name": "se08_greeting_0001796c_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_greeting_0001796c_2.mp3",
+          "name": "se08_greeting_0001796c_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_greeting_0001796c_3.mp3",
+          "name": "se08_greeting_0001796c_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_greeting_0001796c_4.mp3",
+          "name": "se08_greeting_0001796c_4.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_greeting_0001796d_1.mp3",
+          "name": "se08_greeting_0001796d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_greeting_00017d53_1.mp3",
+          "name": "se08_greeting_00017d53_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_greeting_00017d53_2.mp3",
+          "name": "se08_greeting_00017d53_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_greeting_00017d54_1.mp3",
+          "name": "se08_greeting_00017d54_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_greeting_00017d54_2.mp3",
+          "name": "se08_greeting_00017d54_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_greeting_00018c76_1.mp3",
+          "name": "se08_greeting_00018c76_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08battlebeginno_00017da6_1.mp3",
+          "name": "se08_se08battlebeginno_00017da6_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08battlebeginyes_00017d99_1.mp3",
+          "name": "se08_se08battlebeginyes_00017d99_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commanderbattle01_00018e69_1.mp3",
+          "name": "se08_se08commanderbattle01_00018e69_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commanderbattle01_0005249b_1.mp3",
+          "name": "se08_se08commanderbattle01_0005249b_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commanderbattle02_00018e68_1.mp3",
+          "name": "se08_se08commanderbattle02_00018e68_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commanderbattle03_00018e6a_1.mp3",
+          "name": "se08_se08commanderbattle03_00018e6a_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commandergreeting1_00018702_1.mp3",
+          "name": "se08_se08commandergreeting1_00018702_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commandergreeting1_00018702_2.mp3",
+          "name": "se08_se08commandergreeting1_00018702_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commandergreeting1_00018702_3.mp3",
+          "name": "se08_se08commandergreeting1_00018702_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commandergreeting2_000186fe_1.mp3",
+          "name": "se08_se08commandergreeting2_000186fe_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commandergreeting2_000186fe_2.mp3",
+          "name": "se08_se08commandergreeting2_000186fe_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commandergreeting2_000186fe_4.mp3",
+          "name": "se08_se08commandergreeting2_000186fe_4.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commandergreeting3a_000186fc_1.mp3",
+          "name": "se08_se08commandergreeting3a_000186fc_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commandergreeting3a_000186fc_3.mp3",
+          "name": "se08_se08commandergreeting3a_000186fc_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commandergreeting3a_000186fc_4.mp3",
+          "name": "se08_se08commandergreeting3a_000186fc_4.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commandergreeting3_000186fd_1.mp3",
+          "name": "se08_se08commandergreeting3_000186fd_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commandergreeting3_000186fd_2.mp3",
+          "name": "se08_se08commandergreeting3_000186fd_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commandergreeting3_000186fd_3.mp3",
+          "name": "se08_se08commandergreeting3_000186fd_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commanderplan1a_00018c84_1.mp3",
+          "name": "se08_se08commanderplan1a_00018c84_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commanderplan1_00018c82_1.mp3",
+          "name": "se08_se08commanderplan1_00018c82_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commanderplan1_00018c82_2.mp3",
+          "name": "se08_se08commanderplan1_00018c82_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commanderplan1_00018c82_3.mp3",
+          "name": "se08_se08commanderplan1_00018c82_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commanderplan2_00018c86_1.mp3",
+          "name": "se08_se08commanderplan2_00018c86_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commanderplan2_00018c86_2.mp3",
+          "name": "se08_se08commanderplan2_00018c86_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commanderplan3_00018c88_1.mp3",
+          "name": "se08_se08commanderplan3_00018c88_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commanderplan3_00018c88_3.mp3",
+          "name": "se08_se08commanderplan3_00018c88_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08commanderplan3_00018c88_4.mp3",
+          "name": "se08_se08commanderplan3_00018c88_4.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08knightstopic_0001ec1a_1.mp3",
+          "name": "se08_se08knightstopic_0001ec1a_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08obelisktopic_00091351_1.mp3",
+          "name": "se08_se08obelisktopic_00091351_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08obelisktopic_00091351_2.mp3",
+          "name": "se08_se08obelisktopic_00091351_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08orders_0001aead_1.mp3",
+          "name": "se08_se08orders_0001aead_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08orders_0001aead_2.mp3",
+          "name": "se08_se08orders_0001aead_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08orders_0001aead_3.mp3",
+          "name": "se08_se08orders_0001aead_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08orders_0001aead_4.mp3",
+          "name": "se08_se08orders_0001aead_4.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08passwalltopic_000186ff_1.mp3",
+          "name": "se08_se08passwalltopic_000186ff_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08passwalltopic_000186ff_2.mp3",
+          "name": "se08_se08passwalltopic_000186ff_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08placeguardsend_0001da84_1.mp3",
+          "name": "se08_se08placeguardsend_0001da84_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08placeguardshelp_0001ec27_1.mp3",
+          "name": "se08_se08placeguardshelp_0001ec27_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08placeguardshelp_0001ec27_2.mp3",
+          "name": "se08_se08placeguardshelp_0001ec27_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08placeguardshelp_0001ec27_3.mp3",
+          "name": "se08_se08placeguardshelp_0001ec27_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08placeguardshelp_0001ec27_4.mp3",
+          "name": "se08_se08placeguardshelp_0001ec27_4.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08placeguardsno_00017d84_1.mp3",
+          "name": "se08_se08placeguardsno_00017d84_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08placeguardsno_00017d84_2.mp3",
+          "name": "se08_se08placeguardsno_00017d84_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08placeguardsno_00017d84_3.mp3",
+          "name": "se08_se08placeguardsno_00017d84_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08placeguardsno_00017d84_4.mp3",
+          "name": "se08_se08placeguardsno_00017d84_4.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08placeguardsyes_00017d86_1.mp3",
+          "name": "se08_se08placeguardsyes_00017d86_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08placeguardsyes_00017d86_2.mp3",
+          "name": "se08_se08placeguardsyes_00017d86_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08spiretopic_0001da34_1.mp3",
+          "name": "se08_se08spiretopic_0001da34_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08spiretopic_0001da34_2.mp3",
+          "name": "se08_se08spiretopic_0001da34_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08spiretopic_0001da34_4.mp3",
+          "name": "se08_se08spiretopic_0001da34_4.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08spiretopic_000415d7_1.mp3",
+          "name": "se08_se08spiretopic_000415d7_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08startbattleno_00082653_1.mp3",
+          "name": "se08_se08startbattleno_00082653_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08startbattleyes_00082651_1.mp3",
+          "name": "se08_se08startbattleyes_00082651_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se08_se08thefringetopic_00080805_1.mp3",
+          "name": "se08_se08thefringetopic_00080805_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_attack_0008f4d0_1.mp3",
+          "name": "se10_attack_0008f4d0_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_attack_0008f4d1_1.mp3",
+          "name": "se10_attack_0008f4d1_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_attack_0008f4d2_1.mp3",
+          "name": "se10_attack_0008f4d2_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_goodbye_0001680d_1.mp3",
+          "name": "se10_goodbye_0001680d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_goodbye_0008f042_1.mp3",
+          "name": "se10_goodbye_0008f042_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_goodbye_0008f045_1.mp3",
+          "name": "se10_goodbye_0008f045_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_goodbye_0008f04a_1.mp3",
+          "name": "se10_goodbye_0008f04a_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_0001680f_1.mp3",
+          "name": "se10_greeting_0001680f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_00016b37_1.mp3",
+          "name": "se10_greeting_00016b37_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_00016b37_2.mp3",
+          "name": "se10_greeting_00016b37_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_00016b37_3.mp3",
+          "name": "se10_greeting_00016b37_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_00016ecb_1.mp3",
+          "name": "se10_greeting_00016ecb_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_00017469_1.mp3",
+          "name": "se10_greeting_00017469_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_00017473_1.mp3",
+          "name": "se10_greeting_00017473_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_00017473_2.mp3",
+          "name": "se10_greeting_00017473_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_00017ca3_1.mp3",
+          "name": "se10_greeting_00017ca3_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_00017ca3_2.mp3",
+          "name": "se10_greeting_00017ca3_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_00017ca3_3.mp3",
+          "name": "se10_greeting_00017ca3_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_00017ca3_4.mp3",
+          "name": "se10_greeting_00017ca3_4.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_0001acc0_1.mp3",
+          "name": "se10_greeting_0001acc0_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_0001b659_1.mp3",
+          "name": "se10_greeting_0001b659_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_0001e966_1.mp3",
+          "name": "se10_greeting_0001e966_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_0001e966_2.mp3",
+          "name": "se10_greeting_0001e966_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_0001f37f_1.mp3",
+          "name": "se10_greeting_0001f37f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_0008f044_1.mp3",
+          "name": "se10_greeting_0008f044_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_0008f046_1.mp3",
+          "name": "se10_greeting_0008f046_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_greeting_0008f04d_1.mp3",
+          "name": "se10_greeting_0008f04d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_hello_00081cb3_1.mp3",
+          "name": "se10_hello_00081cb3_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_hello_00081cb4_1.mp3",
+          "name": "se10_hello_00081cb4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10adeotopic_00016816_1.mp3",
+          "name": "se10_se10adeotopic_00016816_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10chimeinfo_00043026_1.mp3",
+          "name": "se10_se10chimeinfo_00043026_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10chimeinfo_00043026_2.mp3",
+          "name": "se10_se10chimeinfo_00043026_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10chimeinfo_00043026_3.mp3",
+          "name": "se10_se10chimeinfo_00043026_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10duchessofmania_0001746b_1.mp3",
+          "name": "se10_se10duchessofmania_0001746b_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10duchessofmania_0001746b_2.mp3",
+          "name": "se10_se10duchessofmania_0001746b_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10dukeofmania_0001746d_1.mp3",
+          "name": "se10_se10dukeofmania_0001746d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10dukeofmania_0001746d_2.mp3",
+          "name": "se10_se10dukeofmania_0001746d_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10dyloratopic_00017d0d_1.mp3",
+          "name": "se10_se10dyloratopic_00017d0d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10dyloratopic_00017d0d_2.mp3",
+          "name": "se10_se10dyloratopic_00017d0d_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10dylorawhere_00017d0e_1.mp3",
+          "name": "se10_se10dylorawhere_00017d0e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10dylorawhere_00017d0e_2.mp3",
+          "name": "se10_se10dylorawhere_00017d0e_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10dylorawhere_00017d0e_3.mp3",
+          "name": "se10_se10dylorawhere_00017d0e_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10follow_000545b5_1.mp3",
+          "name": "se10_se10follow_000545b5_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10letsgo_00016bb9_1.mp3",
+          "name": "se10_se10letsgo_00016bb9_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10letsgo_00016bb9_2.mp3",
+          "name": "se10_se10letsgo_00016bb9_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10letsgo_00016bb9_3.mp3",
+          "name": "se10_se10letsgo_00016bb9_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10letsgo_00017d13_1.mp3",
+          "name": "se10_se10letsgo_00017d13_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10letsgo_00017d13_2.mp3",
+          "name": "se10_se10letsgo_00017d13_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10letsgo_00017d13_3.mp3",
+          "name": "se10_se10letsgo_00017d13_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10nm_0001e96e_1.mp3",
+          "name": "se10_se10nm_0001e96e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10notready_00081cad_1.mp3",
+          "name": "se10_se10notready_00081cad_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10opposition_00017d11_1.mp3",
+          "name": "se10_se10opposition_00017d11_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10opposition_00017d11_2.mp3",
+          "name": "se10_se10opposition_00017d11_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10pinnaclerockinfo_00043028_1.mp3",
+          "name": "se10_se10pinnaclerockinfo_00043028_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10pinnaclerockinfo_00043028_2.mp3",
+          "name": "se10_se10pinnaclerockinfo_00043028_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10pinnaclerockinfo_00043028_3.mp3",
+          "name": "se10_se10pinnaclerockinfo_00043028_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10timetogo_0001b6ba_1.mp3",
+          "name": "se10_se10timetogo_0001b6ba_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10trouble_00017d15_1.mp3",
+          "name": "se10_se10trouble_00017d15_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10wait_000545b6_1.mp3",
+          "name": "se10_se10wait_000545b6_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10wellspringinfo_00043027_1.mp3",
+          "name": "se10_se10wellspringinfo_00043027_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10wellspringinfo_00043027_2.mp3",
+          "name": "se10_se10wellspringinfo_00043027_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10wellspringinfo_00043027_3.mp3",
+          "name": "se10_se10wellspringinfo_00043027_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10wellspringofaureal_00082636_1.mp3",
+          "name": "se10_se10wellspringofaureal_00082636_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10wellspringofmazken_000824bd_1.mp3",
+          "name": "se10_se10wellspringofmazken_000824bd_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10wellspringofmazken_0008f17a_1.mp3",
+          "name": "se10_se10wellspringofmazken_0008f17a_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10whataboutsyl_0001b6bb_1.mp3",
+          "name": "se10_se10whataboutsyl_0001b6bb_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10whataboutsyl_0001b6bb_2.mp3",
+          "name": "se10_se10whataboutsyl_0001b6bb_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10whathappened_0001746f_1.mp3",
+          "name": "se10_se10whathappened_0001746f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10whathappened_0001746f_2.mp3",
+          "name": "se10_se10whathappened_0001746f_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10whathappened_0001746f_3.mp3",
+          "name": "se10_se10whathappened_0001746f_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10whatnow_0001b6b9_1.mp3",
+          "name": "se10_se10whatnow_0001b6b9_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10whatwellspring_00017471_1.mp3",
+          "name": "se10_se10whatwellspring_00017471_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10whatwellspring_00017471_2.mp3",
+          "name": "se10_se10whatwellspring_00017471_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10whatwellspring_00017471_3.mp3",
+          "name": "se10_se10whatwellspring_00017471_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10whoareyou_00016811_1.mp3",
+          "name": "se10_se10whoareyou_00016811_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_se10whoareyou_00016811_2.mp3",
+          "name": "se10_se10whoareyou_00016811_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_sepinnaclerocktopic_00017d18_1.mp3",
+          "name": "se10_sepinnaclerocktopic_00017d18_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_sepinnaclerocktopic_00017d18_2.mp3",
+          "name": "se10_sepinnaclerocktopic_00017d18_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_sepinnaclerocktopic_00043025_1.mp3",
+          "name": "se10_sepinnaclerocktopic_00043025_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_sesyltopic_0008f176_1.mp3",
+          "name": "se10_sesyltopic_0008f176_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_sesyltopic_0008f176_2.mp3",
+          "name": "se10_sesyltopic_0008f176_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_sesyltopic_0008f177_1.mp3",
+          "name": "se10_sesyltopic_0008f177_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_sesyltopic_0008f177_2.mp3",
+          "name": "se10_sesyltopic_0008f177_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_sethadontopic_0008f175_1.mp3",
+          "name": "se10_sethadontopic_0008f175_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se10_sethadontopic_0008f175_2.mp3",
+          "name": "se10_sethadontopic_0008f175_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se12_se12traitortaunts_0001a379_1.mp3",
+          "name": "se12_se12traitortaunts_0001a379_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_attack_0004db60_1.mp3",
+          "name": "se13_attack_0004db60_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_attack_0004db6e_1.mp3",
+          "name": "se13_attack_0004db6e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_attack_0004db71_1.mp3",
+          "name": "se13_attack_0004db71_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_attack_0004db76_1.mp3",
+          "name": "se13_attack_0004db76_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_attack_0004db77_1.mp3",
+          "name": "se13_attack_0004db77_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_greeting_0001a77f_1.mp3",
+          "name": "se13_greeting_0001a77f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_greeting_0001a799_1.mp3",
+          "name": "se13_greeting_0001a799_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_greeting_0001a79b_1.mp3",
+          "name": "se13_greeting_0001a79b_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_greeting_0001acac_1.mp3",
+          "name": "se13_greeting_0001acac_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13allyshoutjyggylag_0004db99_1.mp3",
+          "name": "se13_se13allyshoutjyggylag_0004db99_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13allyshoutjyggylag_0004db9c_1.mp3",
+          "name": "se13_se13allyshoutjyggylag_0004db9c_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13allyshoutjyggylag_0004db9e_1.mp3",
+          "name": "se13_se13allyshoutjyggylag_0004db9e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13allyshoutjyggylag_0004dba5_1.mp3",
+          "name": "se13_se13allyshoutjyggylag_0004dba5_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13allyshoutjyggylag_0004dba6_1.mp3",
+          "name": "se13_se13allyshoutjyggylag_0004dba6_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13allyshoutreinforcements_0004dbb4_1.mp3",
+          "name": "se13_se13allyshoutreinforcements_0004dbb4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13allyshoutreinforcements_0004dbd3_1.mp3",
+          "name": "se13_se13allyshoutreinforcements_0004dbd3_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13captaingreeta1_0001a79d_1.mp3",
+          "name": "se13_se13captaingreeta1_0001a79d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13captaingreeta1_0001a79d_2.mp3",
+          "name": "se13_se13captaingreeta1_0001a79d_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13captaingreeta1_0001a79d_3.mp3",
+          "name": "se13_se13captaingreeta1_0001a79d_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13captaingreeta2_0001a79c_1.mp3",
+          "name": "se13_se13captaingreeta2_0001a79c_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13captaingreeta2_0001a79c_2.mp3",
+          "name": "se13_se13captaingreeta2_0001a79c_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13captaingreeta2_0001a79c_3.mp3",
+          "name": "se13_se13captaingreeta2_0001a79c_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13captaingreetb1_0001a79e_1.mp3",
+          "name": "se13_se13captaingreetb1_0001a79e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13captaingreetb2_0001a79f_1.mp3",
+          "name": "se13_se13captaingreetb2_0001a79f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13messengera1_0001a797_1.mp3",
+          "name": "se13_se13messengera1_0001a797_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13messengera2_0001a798_1.mp3",
+          "name": "se13_se13messengera2_0001a798_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13messengera2_0001a798_2.mp3",
+          "name": "se13_se13messengera2_0001a798_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13messengera2_0001a798_3.mp3",
+          "name": "se13_se13messengera2_0001a798_3.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13obeliskashout_0001acad_1.mp3",
+          "name": "se13_se13obeliskashout_0001acad_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13obeliskbshout_0001acae_1.mp3",
+          "name": "se13_se13obeliskbshout_0001acae_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13obeliskcshout_0001acaf_1.mp3",
+          "name": "se13_se13obeliskcshout_0001acaf_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13officergreeta2_0001acb3_1.mp3",
+          "name": "se13_se13officergreeta2_0001acb3_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13officergreeta3_0001acb4_1.mp3",
+          "name": "se13_se13officergreeta3_0001acb4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13officergreeta4_0001acb5_1.mp3",
+          "name": "se13_se13officergreeta4_0001acb5_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se13_se13officergreeta7_0004db98_1.mp3",
+          "name": "se13_se13officergreeta7_0004db98_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se14_greeting_00063570_1.mp3",
+          "name": "se14_greeting_00063570_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se14_greeting_000637c2_1.mp3",
+          "name": "se14_greeting_000637c2_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se14_se14escortfollow_000637d9_1.mp3",
+          "name": "se14_se14escortfollow_000637d9_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se14_se14escortno_000637c8_1.mp3",
+          "name": "se14_se14escortno_000637c8_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se14_se14escortwait_000637e2_1.mp3",
+          "name": "se14_se14escortwait_000637e2_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se14_se14escortyes_000637c6_1.mp3",
+          "name": "se14_se14escortyes_000637c6_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se35_infogeneral_0007866c_1.mp3",
+          "name": "se35_infogeneral_0007866c_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se35_se35brithaur_00078665_1.mp3",
+          "name": "se35_se35brithaur_00078665_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se35_se35brithaur_00078665_2.mp3",
+          "name": "se35_se35brithaur_00078665_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se35_se35rumorresponses_0007866d_1.mp3",
+          "name": "se35_se35rumorresponses_0007866d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se35_se35rumorresponses_0007ac7a_1.mp3",
+          "name": "se35_se35rumorresponses_0007ac7a_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se35_se35rumorresponses_0007ac7b_1.mp3",
+          "name": "se35_se35rumorresponses_0007ac7b_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\se36_se36guardresponse_00081dad_1.mp3",
+          "name": "se36_se36guardresponse_00081dad_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_00045750_1.mp3",
+          "name": "secrime_greeting_00045750_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_00045751_1.mp3",
+          "name": "secrime_greeting_00045751_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_00045752_1.mp3",
+          "name": "secrime_greeting_00045752_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_00045753_1.mp3",
+          "name": "secrime_greeting_00045753_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_00045754_1.mp3",
+          "name": "secrime_greeting_00045754_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_00045755_1.mp3",
+          "name": "secrime_greeting_00045755_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_00045756_1.mp3",
+          "name": "secrime_greeting_00045756_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_00045757_1.mp3",
+          "name": "secrime_greeting_00045757_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_00045758_1.mp3",
+          "name": "secrime_greeting_00045758_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_0004575a_1.mp3",
+          "name": "secrime_greeting_0004575a_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_0004575b_1.mp3",
+          "name": "secrime_greeting_0004575b_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_000459b3_1.mp3",
+          "name": "secrime_greeting_000459b3_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_000459b3_2.mp3",
+          "name": "secrime_greeting_000459b3_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_000459b4_1.mp3",
+          "name": "secrime_greeting_000459b4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_000459b4_2.mp3",
+          "name": "secrime_greeting_000459b4_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_000459b5_1.mp3",
+          "name": "secrime_greeting_000459b5_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_000459b5_2.mp3",
+          "name": "secrime_greeting_000459b5_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_000459b7_1.mp3",
+          "name": "secrime_greeting_000459b7_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_000459b7_2.mp3",
+          "name": "secrime_greeting_000459b7_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_greeting_00045d2c_1.mp3",
+          "name": "secrime_greeting_00045d2c_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_paygoldforcrime_0004575f_1.mp3",
+          "name": "secrime_paygoldforcrime_0004575f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_paygoldforcrime_00045765_1.mp3",
+          "name": "secrime_paygoldforcrime_00045765_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_paygoldforcrime_00045765_2.mp3",
+          "name": "secrime_paygoldforcrime_00045765_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_paygoldforcrime_000459d0_1.mp3",
+          "name": "secrime_paygoldforcrime_000459d0_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_resistarrest_00045769_1.mp3",
+          "name": "secrime_resistarrest_00045769_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_resistarrest_0004576a_1.mp3",
+          "name": "secrime_resistarrest_0004576a_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_resistarrest_0004576b_1.mp3",
+          "name": "secrime_resistarrest_0004576b_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_resistarrest_000459ba_1.mp3",
+          "name": "secrime_resistarrest_000459ba_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_resistarrest_000459d1_1.mp3",
+          "name": "secrime_resistarrest_000459d1_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_sepaygoldforcrime_000459c8_1.mp3",
+          "name": "secrime_sepaygoldforcrime_000459c8_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_sepaygoldforcrime_000459c8_2.mp3",
+          "name": "secrime_sepaygoldforcrime_000459c8_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_seresistarrest_000459c7_1.mp3",
+          "name": "secrime_seresistarrest_000459c7_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_servesentence_00045759_1.mp3",
+          "name": "secrime_servesentence_00045759_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_servesentence_00045766_1.mp3",
+          "name": "secrime_servesentence_00045766_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_servesentence_000459d2_1.mp3",
+          "name": "secrime_servesentence_000459d2_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_seservesentence_000459c5_1.mp3",
+          "name": "secrime_seservesentence_000459c5_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\secrime_seservesentence_000459c5_2.mp3",
+          "name": "secrime_seservesentence_000459c5_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_attack_00061ccf_1.mp3",
+          "name": "senqdgeneric_attack_00061ccf_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_attack_00061cd0_1.mp3",
+          "name": "senqdgeneric_attack_00061cd0_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_attack_00061cd3_1.mp3",
+          "name": "senqdgeneric_attack_00061cd3_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_attack_00061cd4_1.mp3",
+          "name": "senqdgeneric_attack_00061cd4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_goodbye_00061cc8_1.mp3",
+          "name": "senqdgeneric_goodbye_00061cc8_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_goodbye_0007a020_1.mp3",
+          "name": "senqdgeneric_goodbye_0007a020_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_goodbye_0007a022_1.mp3",
+          "name": "senqdgeneric_goodbye_0007a022_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_greeting_00018f88_1.mp3",
+          "name": "senqdgeneric_greeting_00018f88_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_greeting_00069768_1.mp3",
+          "name": "senqdgeneric_greeting_00069768_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_greeting_00070f85_1.mp3",
+          "name": "senqdgeneric_greeting_00070f85_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_greeting_00070f86_1.mp3",
+          "name": "senqdgeneric_greeting_00070f86_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_greeting_00070fa2_1.mp3",
+          "name": "senqdgeneric_greeting_00070fa2_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_greeting_00071016_1.mp3",
+          "name": "senqdgeneric_greeting_00071016_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_greeting_00071017_1.mp3",
+          "name": "senqdgeneric_greeting_00071017_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_greeting_0007a023_1.mp3",
+          "name": "senqdgeneric_greeting_0007a023_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_greeting_0008256e_1.mp3",
+          "name": "senqdgeneric_greeting_0008256e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_greeting_0008ea35_1.mp3",
+          "name": "senqdgeneric_greeting_0008ea35_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_hello_00061cb7_1.mp3",
+          "name": "senqdgeneric_hello_00061cb7_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_hello_00061cc9_1.mp3",
+          "name": "senqdgeneric_hello_00061cc9_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_hello_00061cca_1.mp3",
+          "name": "senqdgeneric_hello_00061cca_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_hello_00061ccb_1.mp3",
+          "name": "senqdgeneric_hello_00061ccb_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_hello_0007a01f_1.mp3",
+          "name": "senqdgeneric_hello_0007a01f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_hello_0007a021_1.mp3",
+          "name": "senqdgeneric_hello_0007a021_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_hello_00080d90_1.mp3",
+          "name": "senqdgeneric_hello_00080d90_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_hello_00080d91_1.mp3",
+          "name": "senqdgeneric_hello_00080d91_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_hello_0008faa2_1.mp3",
+          "name": "senqdgeneric_hello_0008faa2_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_hello_0008faa3_1.mp3",
+          "name": "senqdgeneric_hello_0008faa3_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_hello_0008faa4_1.mp3",
+          "name": "senqdgeneric_hello_0008faa4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_hello_0008fab1_1.mp3",
+          "name": "senqdgeneric_hello_0008fab1_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_hit_00061c81_1.mp3",
+          "name": "senqdgeneric_hit_00061c81_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_hit_00061c82_1.mp3",
+          "name": "senqdgeneric_hit_00061c82_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_hit_00061c86_1.mp3",
+          "name": "senqdgeneric_hit_00061c86_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_hit_00061c95_1.mp3",
+          "name": "senqdgeneric_hit_00061c95_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_infogeneral_0009148d_1.mp3",
+          "name": "senqdgeneric_infogeneral_0009148d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_infogeneral_0009148e_1.mp3",
+          "name": "senqdgeneric_infogeneral_0009148e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_infogeneral_0009148f_1.mp3",
+          "name": "senqdgeneric_infogeneral_0009148f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_infogeneral_000914af_1.mp3",
+          "name": "senqdgeneric_infogeneral_000914af_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_infogeneral_000914b1_1.mp3",
+          "name": "senqdgeneric_infogeneral_000914b1_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_powerattack_00061c76_1.mp3",
+          "name": "senqdgeneric_powerattack_00061c76_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_powerattack_00061c77_1.mp3",
+          "name": "senqdgeneric_powerattack_00061c77_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_powerattack_00061c8e_1.mp3",
+          "name": "senqdgeneric_powerattack_00061c8e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_powerattack_00061c8f_1.mp3",
+          "name": "senqdgeneric_powerattack_00061c8f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_powerattack_00061cce_1.mp3",
+          "name": "senqdgeneric_powerattack_00061cce_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_se10wellspringofmazken_0008ef33_1.mp3",
+          "name": "senqdgeneric_se10wellspringofmazken_0008ef33_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_senewsheothtopic_00078ca5_1.mp3",
+          "name": "senqdgeneric_senewsheothtopic_00078ca5_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_sesheogorathtopic_00078c69_1.mp3",
+          "name": "senqdgeneric_sesheogorathtopic_00078c69_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_seshiveringislestopic_00078ca8_1.mp3",
+          "name": "senqdgeneric_seshiveringislestopic_00078ca8_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_transition_00060955_1.mp3",
+          "name": "senqdgeneric_transition_00060955_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_transition_000617c6_1.mp3",
+          "name": "senqdgeneric_transition_000617c6_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_transition_000617c7_1.mp3",
+          "name": "senqdgeneric_transition_000617c7_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_transition_000617c8_1.mp3",
+          "name": "senqdgeneric_transition_000617c8_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_transition_000617c9_1.mp3",
+          "name": "senqdgeneric_transition_000617c9_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_trespass_0007dfe3_1.mp3",
+          "name": "senqdgeneric_trespass_0007dfe3_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_trespass_0007dfe4_1.mp3",
+          "name": "senqdgeneric_trespass_0007dfe4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_trespass_0007dfe5_1.mp3",
+          "name": "senqdgeneric_trespass_0007dfe5_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\f\\senqdgeneric_trespass_0007dfe6_1.mp3",
+          "name": "senqdgeneric_trespass_0007dfe6_1.mp3"
+        }
+      ]
+    },
+    {
+      "path": "oblivion\\dark seducer\\m",
+      "name": "m",
+      "children": [
+        {
+          "path": "oblivion\\dark seducer\\m\\se06_seaureals_00012cc2_1.mp3",
+          "name": "se06_seaureals_00012cc2_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se06_semazken_00012cc4_1.mp3",
+          "name": "se06_semazken_00012cc4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08fin_goodbye_0008ef56_1.mp3",
+          "name": "se08fin_goodbye_0008ef56_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08fin_goodbye_0008ef57_1.mp3",
+          "name": "se08fin_goodbye_0008ef57_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08fin_greeting_0007fde1_1.mp3",
+          "name": "se08fin_greeting_0007fde1_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08fin_greeting_0007fde2_1.mp3",
+          "name": "se08fin_greeting_0007fde2_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08fin_greeting_0007fde3_1.mp3",
+          "name": "se08fin_greeting_0007fde3_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08fin_greeting_0007fde4_1.mp3",
+          "name": "se08fin_greeting_0007fde4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08fin_greeting_0007fde5_1.mp3",
+          "name": "se08fin_greeting_0007fde5_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08fin_hello_0008ef54_1.mp3",
+          "name": "se08fin_hello_0008ef54_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08fin_hello_0008ef55_1.mp3",
+          "name": "se08fin_hello_0008ef55_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_goodbye_0008247a_1.mp3",
+          "name": "se08_goodbye_0008247a_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_goodbye_0008247b_1.mp3",
+          "name": "se08_goodbye_0008247b_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_goodbye_0008247c_1.mp3",
+          "name": "se08_goodbye_0008247c_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_goodbye_0008247d_1.mp3",
+          "name": "se08_goodbye_0008247d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_goodbye_0008247e_1.mp3",
+          "name": "se08_goodbye_0008247e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_greeting_00017976_1.mp3",
+          "name": "se08_greeting_00017976_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_greeting_00017979_1.mp3",
+          "name": "se08_greeting_00017979_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_greeting_00017d55_1.mp3",
+          "name": "se08_greeting_00017d55_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_greeting_00017d97_1.mp3",
+          "name": "se08_greeting_00017d97_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_greeting_0001eb98_1.mp3",
+          "name": "se08_greeting_0001eb98_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_greeting_0001ebc9_1.mp3",
+          "name": "se08_greeting_0001ebc9_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_greeting_0001ebeb_1.mp3",
+          "name": "se08_greeting_0001ebeb_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_greeting_0001ebf0_1.mp3",
+          "name": "se08_greeting_0001ebf0_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_greeting_0001ebf1_1.mp3",
+          "name": "se08_greeting_0001ebf1_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_greeting_00040b78_1.mp3",
+          "name": "se08_greeting_00040b78_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_greeting_0004136b_1.mp3",
+          "name": "se08_greeting_0004136b_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_hello_00082472_1.mp3",
+          "name": "se08_hello_00082472_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_hello_00082473_1.mp3",
+          "name": "se08_hello_00082473_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_hello_00082474_1.mp3",
+          "name": "se08_hello_00082474_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_hello_00082475_1.mp3",
+          "name": "se08_hello_00082475_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_hello_00082476_1.mp3",
+          "name": "se08_hello_00082476_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_hello_00082477_1.mp3",
+          "name": "se08_hello_00082477_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_hello_00082478_1.mp3",
+          "name": "se08_hello_00082478_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_hello_00082479_1.mp3",
+          "name": "se08_hello_00082479_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08ally01tactic1_0001798f_1.mp3",
+          "name": "se08_se08ally01tactic1_0001798f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08ally01tactic2_00017990_1.mp3",
+          "name": "se08_se08ally01tactic2_00017990_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08ally01tactic3_00017991_1.mp3",
+          "name": "se08_se08ally01tactic3_00017991_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08ally02tactic1_00017d57_1.mp3",
+          "name": "se08_se08ally02tactic1_00017d57_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08ally02tactic2_00017d5c_1.mp3",
+          "name": "se08_se08ally02tactic2_00017d5c_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08ally02tactic3_00017d61_1.mp3",
+          "name": "se08_se08ally02tactic3_00017d61_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08ally03tactic1_00017d58_1.mp3",
+          "name": "se08_se08ally03tactic1_00017d58_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08ally03tactic2_00017d5d_1.mp3",
+          "name": "se08_se08ally03tactic2_00017d5d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08ally03tactic3_00017d62_1.mp3",
+          "name": "se08_se08ally03tactic3_00017d62_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08ally04tactic1_00017d59_1.mp3",
+          "name": "se08_se08ally04tactic1_00017d59_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08ally04tactic2_00017d5e_1.mp3",
+          "name": "se08_se08ally04tactic2_00017d5e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08ally04tactic3_00017d63_1.mp3",
+          "name": "se08_se08ally04tactic3_00017d63_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08knightstopic_00018701_1.mp3",
+          "name": "se08_se08knightstopic_00018701_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08obelisktopic_00091351_1.mp3",
+          "name": "se08_se08obelisktopic_00091351_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08obelisktopic_00091351_2.mp3",
+          "name": "se08_se08obelisktopic_00091351_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08orders_0001aeaf_1.mp3",
+          "name": "se08_se08orders_0001aeaf_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08orders_0001ec1d_1.mp3",
+          "name": "se08_se08orders_0001ec1d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08orders_0001ec1e_1.mp3",
+          "name": "se08_se08orders_0001ec1e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08orders_0001ec1f_1.mp3",
+          "name": "se08_se08orders_0001ec1f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08passwalltopic_000415db_1.mp3",
+          "name": "se08_se08passwalltopic_000415db_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08spiretopic_00018700_1.mp3",
+          "name": "se08_se08spiretopic_00018700_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08spiretopic_000415d9_1.mp3",
+          "name": "se08_se08spiretopic_000415d9_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se08_se08thefringetopic_00080805_1.mp3",
+          "name": "se08_se08thefringetopic_00080805_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_attack_0008f4d0_1.mp3",
+          "name": "se10_attack_0008f4d0_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_attack_0008f4d1_1.mp3",
+          "name": "se10_attack_0008f4d1_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_attack_0008f4d2_1.mp3",
+          "name": "se10_attack_0008f4d2_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_goodbye_0001680d_1.mp3",
+          "name": "se10_goodbye_0001680d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_goodbye_0008f042_1.mp3",
+          "name": "se10_goodbye_0008f042_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_goodbye_0008f045_1.mp3",
+          "name": "se10_goodbye_0008f045_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_goodbye_0008f04a_1.mp3",
+          "name": "se10_goodbye_0008f04a_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_greeting_0001680f_1.mp3",
+          "name": "se10_greeting_0001680f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_greeting_00055405_1.mp3",
+          "name": "se10_greeting_00055405_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_greeting_00055405_2.mp3",
+          "name": "se10_greeting_00055405_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_greeting_00079c09_1.mp3",
+          "name": "se10_greeting_00079c09_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_greeting_00079c09_2.mp3",
+          "name": "se10_greeting_00079c09_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_greeting_00079c0a_1.mp3",
+          "name": "se10_greeting_00079c0a_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_greeting_0008f046_1.mp3",
+          "name": "se10_greeting_0008f046_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_greeting_0008f04d_1.mp3",
+          "name": "se10_greeting_0008f04d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_hello_00081cb3_1.mp3",
+          "name": "se10_hello_00081cb3_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_hello_00081cb4_1.mp3",
+          "name": "se10_hello_00081cb4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_se10adeotopic_00016816_1.mp3",
+          "name": "se10_se10adeotopic_00016816_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_se10follow_00055408_1.mp3",
+          "name": "se10_se10follow_00055408_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_se10messengergreeting_00095359_1.mp3",
+          "name": "se10_se10messengergreeting_00095359_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_se10trouble_00017d15_1.mp3",
+          "name": "se10_se10trouble_00017d15_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_se10wait_00055406_1.mp3",
+          "name": "se10_se10wait_00055406_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_se10wait_00055407_1.mp3",
+          "name": "se10_se10wait_00055407_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_se10wellspringofaureal_00082636_1.mp3",
+          "name": "se10_se10wellspringofaureal_00082636_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_se10wellspringofmazken_000824bd_1.mp3",
+          "name": "se10_se10wellspringofmazken_000824bd_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_se10wellspringofmazken_0008f17a_1.mp3",
+          "name": "se10_se10wellspringofmazken_0008f17a_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_se10whoareyou_00016811_1.mp3",
+          "name": "se10_se10whoareyou_00016811_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_se10whoareyou_00016811_2.mp3",
+          "name": "se10_se10whoareyou_00016811_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_sepinnaclerocktopic_00017d18_1.mp3",
+          "name": "se10_sepinnaclerocktopic_00017d18_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_sepinnaclerocktopic_00017d18_2.mp3",
+          "name": "se10_sepinnaclerocktopic_00017d18_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_sesyltopic_0008f177_1.mp3",
+          "name": "se10_sesyltopic_0008f177_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se10_sesyltopic_0008f177_2.mp3",
+          "name": "se10_sesyltopic_0008f177_2.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se12_se12traitortaunts_0001a379_1.mp3",
+          "name": "se12_se12traitortaunts_0001a379_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\se13_greeting_0001a799_1.mp3",
+          "name": "se13_greeting_0001a799_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_attack_00061ccf_1.mp3",
+          "name": "senqdgeneric_attack_00061ccf_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_attack_00061cd0_1.mp3",
+          "name": "senqdgeneric_attack_00061cd0_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_attack_00061cd3_1.mp3",
+          "name": "senqdgeneric_attack_00061cd3_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_attack_00061cd4_1.mp3",
+          "name": "senqdgeneric_attack_00061cd4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_goodbye_00061cc8_1.mp3",
+          "name": "senqdgeneric_goodbye_00061cc8_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_goodbye_0007a020_1.mp3",
+          "name": "senqdgeneric_goodbye_0007a020_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_goodbye_0007a022_1.mp3",
+          "name": "senqdgeneric_goodbye_0007a022_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_greeting_00069768_1.mp3",
+          "name": "senqdgeneric_greeting_00069768_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_greeting_00070f85_1.mp3",
+          "name": "senqdgeneric_greeting_00070f85_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_greeting_00070f86_1.mp3",
+          "name": "senqdgeneric_greeting_00070f86_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_greeting_00070fa2_1.mp3",
+          "name": "senqdgeneric_greeting_00070fa2_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_greeting_00071016_1.mp3",
+          "name": "senqdgeneric_greeting_00071016_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_greeting_00071017_1.mp3",
+          "name": "senqdgeneric_greeting_00071017_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_greeting_0007a023_1.mp3",
+          "name": "senqdgeneric_greeting_0007a023_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_hello_00061cb7_1.mp3",
+          "name": "senqdgeneric_hello_00061cb7_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_hello_00061cc9_1.mp3",
+          "name": "senqdgeneric_hello_00061cc9_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_hello_00061ccc_1.mp3",
+          "name": "senqdgeneric_hello_00061ccc_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_hello_00061ccd_1.mp3",
+          "name": "senqdgeneric_hello_00061ccd_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_hello_0007a01f_1.mp3",
+          "name": "senqdgeneric_hello_0007a01f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_hello_0007a021_1.mp3",
+          "name": "senqdgeneric_hello_0007a021_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_hello_00080d90_1.mp3",
+          "name": "senqdgeneric_hello_00080d90_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_hello_00080d91_1.mp3",
+          "name": "senqdgeneric_hello_00080d91_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_hello_0008faa2_1.mp3",
+          "name": "senqdgeneric_hello_0008faa2_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_hello_0008faa3_1.mp3",
+          "name": "senqdgeneric_hello_0008faa3_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_hello_0008faa4_1.mp3",
+          "name": "senqdgeneric_hello_0008faa4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_hello_0008faa5_1.mp3",
+          "name": "senqdgeneric_hello_0008faa5_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_hit_00061c81_1.mp3",
+          "name": "senqdgeneric_hit_00061c81_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_hit_00061c82_1.mp3",
+          "name": "senqdgeneric_hit_00061c82_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_hit_00061c86_1.mp3",
+          "name": "senqdgeneric_hit_00061c86_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_hit_00061c95_1.mp3",
+          "name": "senqdgeneric_hit_00061c95_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_infogeneral_0009148d_1.mp3",
+          "name": "senqdgeneric_infogeneral_0009148d_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_infogeneral_0009148e_1.mp3",
+          "name": "senqdgeneric_infogeneral_0009148e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_infogeneral_0009148f_1.mp3",
+          "name": "senqdgeneric_infogeneral_0009148f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_infogeneral_000914af_1.mp3",
+          "name": "senqdgeneric_infogeneral_000914af_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_infogeneral_000914b1_1.mp3",
+          "name": "senqdgeneric_infogeneral_000914b1_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_powerattack_00061c76_1.mp3",
+          "name": "senqdgeneric_powerattack_00061c76_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_powerattack_00061c77_1.mp3",
+          "name": "senqdgeneric_powerattack_00061c77_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_powerattack_00061c8e_1.mp3",
+          "name": "senqdgeneric_powerattack_00061c8e_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_powerattack_00061c8f_1.mp3",
+          "name": "senqdgeneric_powerattack_00061c8f_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_powerattack_00061cce_1.mp3",
+          "name": "senqdgeneric_powerattack_00061cce_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_se10wellspringofmazken_0008ef33_1.mp3",
+          "name": "senqdgeneric_se10wellspringofmazken_0008ef33_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_senewsheothtopic_00078ca5_1.mp3",
+          "name": "senqdgeneric_senewsheothtopic_00078ca5_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_sesheogorathtopic_00078c69_1.mp3",
+          "name": "senqdgeneric_sesheogorathtopic_00078c69_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_seshiveringislestopic_00078ca8_1.mp3",
+          "name": "senqdgeneric_seshiveringislestopic_00078ca8_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_transition_00060955_1.mp3",
+          "name": "senqdgeneric_transition_00060955_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_transition_000617c6_1.mp3",
+          "name": "senqdgeneric_transition_000617c6_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_transition_000617c7_1.mp3",
+          "name": "senqdgeneric_transition_000617c7_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_transition_000617c8_1.mp3",
+          "name": "senqdgeneric_transition_000617c8_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_transition_000617c9_1.mp3",
+          "name": "senqdgeneric_transition_000617c9_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_trespass_0007dfe3_1.mp3",
+          "name": "senqdgeneric_trespass_0007dfe3_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_trespass_0007dfe4_1.mp3",
+          "name": "senqdgeneric_trespass_0007dfe4_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_trespass_0007dfe5_1.mp3",
+          "name": "senqdgeneric_trespass_0007dfe5_1.mp3"
+        },
+        {
+          "path": "oblivion\\dark seducer\\m\\senqdgeneric_trespass_0007dfe6_1.mp3",
+          "name": "senqdgeneric_trespass_0007dfe6_1.mp3"
+        }
+      ]
+    }
+  ]
+}
