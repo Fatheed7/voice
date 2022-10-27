@@ -135,3 +135,5 @@ node_modules/
 oblivion/
 skyrim/
 stupid/
+
+temperature.py
