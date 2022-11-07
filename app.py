@@ -4,13 +4,12 @@ import discord
 from dotenv import load_dotenv
 import discord.ext
 from sound import SoundCommands
-from asyncio import sleep
 
 from cmds import (  # noqa: F401
     embed, last, nick, play_sound,
     itad, gamivo, gpt, duck, temperature,
     convert, skyrim, npc_random, fatheed,
-    owen
+    owen, dalle
     )
 
 from dicts import cmd_dict, elder, stupid
@@ -45,6 +44,8 @@ async def on_message(self):
     #  GPT Command  #
     elif self.content.lower().startswith('!gpt '):
         await gpt.gpt_cmd(self)
+    elif self.content.lower().startswith('!dalle '):
+        await dalle.dalle_cmd(self)
     #  Check if user is in a voice channel.  #
     elif self.author.voice is None and self.content.startswith("!npc"):
         await self.channel.send('You are not in a voice channel.')

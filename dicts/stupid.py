@@ -18,4 +18,6 @@ stupid_sound_dict = {
     'genji': 'stupid/genji.mp3',
     'mccree': 'stupid/mccree.mp3',
     's76': 'stupid/s76.mp3',
+    'easy': 'stupid/easy.mp3',
+    'cringe': 'stupid/cringe.mp3',
 }
