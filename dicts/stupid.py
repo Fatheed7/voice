@@ -13,11 +13,5 @@ stupid_sound_dict = {
     'trap': 'stupid/trap.mp3',
     'work': 'stupid/work.mp3',
     'wow': 'stupid/wow.mp3',
-    # Overwatch
-    'dva': 'stupid/dva.mp3',
-    'genji': 'stupid/genji.mp3',
-    'mccree': 'stupid/mccree.mp3',
-    's76': 'stupid/s76.mp3',
-    'easy': 'stupid/easy.mp3',
-    'cringe': 'stupid/cringe.mp3',
+    'nick': 'stupid/nick.mp3',
 }

@@ -5,7 +5,10 @@ from sound import SoundCommands
 from random import randrange
 
 
-async def npc_random_cmd(message, client):  # sourcery skip: merge-comparisons
+async def npc_random_cmd(
+                        interaction,
+                        client
+                        ):  # sourcery skip: merge-comparisons
     sound_files = ["json/argonian.json", "json/breton.json", "json/dark.json",
                    "json/dremora.json", "json/golden.json",
                    "json/highelf.json", "json/imperial.json",
@@ -23,7 +26,7 @@ async def npc_random_cmd(message, client):  # sourcery skip: merge-comparisons
             path = sound['path']
             name = sound['name']
             try:
-                await SoundCommands.play(message, path, client, name)
+                await SoundCommands.play(interaction, path, client, name)
             except Exception as e:
                 print(e)
         elif choice == 'json/skyrim.json':
@@ -33,7 +36,7 @@ async def npc_random_cmd(message, client):  # sourcery skip: merge-comparisons
             path = sound['path']
             name = sound['name']
             try:
-                await SoundCommands.play(message, path, client, path)
+                await SoundCommands.play(interaction, path, client, path)
             except Exception as e:
                 print(e)
         else:
@@ -42,6 +45,6 @@ async def npc_random_cmd(message, client):  # sourcery skip: merge-comparisons
             path = sound['path']
             name = sound['name']
             try:
-                await SoundCommands.play(message, path, client, path)
+                await SoundCommands.play(interaction, path, client, path)
             except Exception as e:
                 print(e)

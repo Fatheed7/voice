@@ -9,7 +9,6 @@ elderscrolls_dict = {
     'lemons': 'skyrim/clown.mp3',
     'necro': 'oblivion/high elf/f/NQDSkingrad_SkingradTopic_00038AA1_3.mp3',
     'ni': 'oblivion/argonian/f/senqdmania_serunsincirclesyell_00041211_1.mp3',
-    'nick': 'deerpenis.mp3',
     'pp': 'oblivion/Imperial/m/generic_pickpocket_00062274_1.mp3',
     'snort': 'oblivion/Imperial/m/generic_transition_0002a85b_1.mp3'
 }

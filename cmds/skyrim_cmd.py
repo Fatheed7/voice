@@ -5,7 +5,7 @@ from sound import SoundCommands
 from random import randrange
 
 
-async def skyrim_cmd(message, client):
+async def skyrim_cmd(interaction, client):
     sound_files = "json/skyrim.json"
     with open(sound_files, 'r') as j:
         folder = randrange(104)
@@ -13,6 +13,6 @@ async def skyrim_cmd(message, client):
         sound = random.choice(list(data['children'][folder]['children']))
         path = sound['path']
         try:
-            await SoundCommands.play(message, path, client, path)
+            await SoundCommands.play(interaction, path, client, path)
         except Exception as e:
             print(e)
