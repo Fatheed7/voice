@@ -156,7 +156,7 @@ async def ow(
             "Retribution": "retribution",
             "Roadhog": "roadhog",
         })):
-    await dalle_cmd.dalle_cmd(interaction, text)
+    await ow_cmd.ow_cmd(interaction, text, bot)
 
 
 @bot.slash_command(guild_ids=servers,
@@ -184,7 +184,7 @@ async def ow2(
             "Zarya": "zarya",
             "Zenyatta": "zenyatta"
         })):
-    await dalle_cmd.dalle_cmd(interaction, text)
+    await ow_cmd.ow_cmd(interaction, text, bot)
 
 
 # Check user is in VC before attempting to join
